@@ -1,0 +1,38 @@
+{
+    "seed": 3407,
+    "dataset_type": "four_dawn",
+    "alpha": 0.2,
+    "beta": 0.2,
+    "caption_rate": 0.05,
+    "num_epoch": 50,
+    "remarks": "no FSR",
+    "results": {
+        "accuracy": 0.7560975609756098,
+        "f1": 0.7436296233768062,
+        "class_names": [
+            "accident",
+            "dense traffic",
+            "fire",
+            "sparse traffic"
+        ],
+        "class_precision": [
+            0.7547169811320755,
+            0.525,
+            0.9137931034482759,
+            0.7592592592592593
+        ],
+        "class_recall": [
+            0.6349206349206349,
+            0.7,
+            0.7464788732394366,
+            1.0
+        ],
+        "class_f1": [
+            0.6896551724137931,
+            0.6,
+            0.8217054263565892,
+            0.8631578947368421
+        ]
+    },
+    "k": 3
+}

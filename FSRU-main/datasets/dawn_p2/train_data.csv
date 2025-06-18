@@ -1,0 +1,839 @@
+image_url,tweet,label
+train\Fog\foggy-001.jpg,The traffic road has low visibility due to dense fog The air quality is poor,0
+train\Fog\foggy-002.jpg,The visibility is low due to the presence of suspended particles in the air The road conditions are clear and vehicles are driving normally The sky is covered by dense fog creating a hazy atmosphere,0
+train\Fog\foggy-003.jpg,The traffic road has low visibility due to fog The air appears humid and the road looks slippery The sky is covered with fog making the light soft and hazy,0
+train\Fog\foggy-004.jpg,The traffic road is wet likely due to recent rain Visibility is low possibly from the rain and road glare The skys condition is unclear but the environment appears overcast,0
+train\Fog\foggy-006.jpg,The traffic road has low visibility due to fog The road surface is clear and the sky is obscured by fog,0
+train\Fog\foggy-007.jpg,The traffic road has low visibility due to fog The distant vehicles and signs are blurred The road condition is good with no visible water or potholes The sky is obscured by fog,0
+train\Fog\foggy-008.jpg,The traffic road has low visibility due to fog The sky is obscured by the dense fog and the road surface appears clear,0
+train\Fog\foggy-009.jpg,The traffic road is obscured by low visibility due to dense fog The air appears moist and the road surface is clear with no visible wetness The sky is covered in fog creating a dimly lit environment,0
+train\Fog\foggy-010.jpg,The traffic road has low visibility due to foggy weather The wet road reflects the vehicle lights showing some water accumulation The sky is overcast indicating possible precipitation or mist,0
+train\Fog\foggy-011.jpg,The traffic road has low visibility due to fog,0
+train\Fog\foggy-012.jpg,The traffic road has low visibility due to fog The surface is wet and slippery with possible puddles or debris The sky is covered by dense fog making the surroundings dim,0
+train\Fog\foggy-014.jpg,The traffic road has low visibility likely due to air pollution or mist The sky is unclear and the road appears somewhat blurry,0
+train\Fog\foggy-015.jpg,The visibility is low due to air pollution The road appears wet likely from recent rain or mist The sky is overcast,0
+train\Fog\foggy-016.jpg,The visibility is low due to fog The road conditions are clear The sky is obscured by fog,0
+train\Fog\foggy-017.jpg,The traffic road shows low visibility a cloudy sky and a wet surface,0
+train\Fog\foggy-018.jpg,The visibility is low due to fog The air appears hazy but the exact air quality cannot be determined The road looks wet likely from the mist The sky is covered in fog making it dark and gloomy,0
+train\Fog\foggy-019.jpg,The visibility is low due to fog The road is wet reflecting the light The sky is obscured by fog making it dark,0
+train\Fog\foggy-020.jpg,The traffic road has low visibility the sky is overcast and the road is wet,0
+train\Fog\foggy-041.jpg,The traffic road has low visibility due to mist The road appears wet likely from rain or mist The sky is overcast with no sunlight,0
+train\Fog\foggy-042.jpg,The air quality is poor visibility is low The road is wet and reflective The sky appears overcast,0
+train\Fog\foggy-043.jpg,The traffic road appears wet likely due to recent rain Visibility is low with distant vehicles and buildings appearing blurry The sky looks overcast without clear sunlight or blue skies Overall the weather feels damp and gloomy,0
+train\Fog\foggy-044.jpg,The traffic road has low visibility due to fog The sky is covered with fog and the distant road signs and vehicles are blurred The road condition is clear with no visible wet or slippery areas,0
+train\Fog\foggy-045.jpg,The traffic road has low visibility due to fog The air appears moist and the road looks smooth without visible wetness The sky is obscured by fog making it dark,0
+train\Fog\foggy-046.jpg,The air quality is poor visibility is extremely low the road is slippery and the sky is overcast,0
+train\Fog\foggy-047.jpg,The traffic road is obscured by low visibility due to dense fog,0
+train\Fog\foggy-048.jpg,The traffic road has low visibility due to fog The distant vehicles and traffic lights appear blurry The road condition is good with no visible wet or slippery areas The sky appears hazy overall,0
+train\Fog\foggy-049.jpg,The traffic road shows low visibility due to dense fog The air appears hazy and the road is clear with no visible damage The sky is obscured by fog creating a dimly lit scene,0
+train\Fog\foggy-050.jpg,The traffic road shows poor air quality low visibility and wet conditions The sky appears overcast,0
+train\Fog\foggy-051.jpg,The traffic road shows poor air quality low visibility and wet conditions The sky appears overcast,0
+train\Fog\foggy-053.jpg,The visibility is low due to fog The sky appears hazy and the air seems slightly polluted The road surface is smooth with no visible water or potholes,0
+train\Fog\foggy-055.jpg,The visibility is low due to fog The road appears wet likely from moisture,0
+train\Fog\foggy-056.jpg,The traffic road has low visibility due to fog The air is hazy and the sky appears misty The road condition is good with no visible wetness,0
+train\Fog\foggy-057.jpg,The visibility is low the sky is hazy and the road appears dry,0
+train\Fog\foggy-058.jpg,The traffic road has low visibility due to fog The air is hazy and the distant vehicles and road signs are blurred The road condition is good with no visible damage or water The sky appears overcast,0
+train\Fog\foggy-059.jpg,The traffic road shows low visibility with a foggy sky The distant vehicles are barely visible The road appears smooth but details are unclear due to the fog The weather is overcast,0
+train\Fog\foggy-060.jpg,Visibility is low and the road appears wet The sky is overcast,0
+train\Fog\foggy-061.jpg,The traffic road is shrouded in low visibility with a dense fog covering the sky,0
+train\Fog\foggy-062.jpg,The image shows a low visibility condition with a grayish sky The road appears clear with no visible wet or slippery areas,0
+train\Fog\foggy-063.jpg,The visibility is low due to air pollution or mist The road appears wet likely from humidity The sky is overcast with dim lighting,0
+train\Fog\foggy-064.jpg,The traffic road has low visibility due to fog The distant road signs and vehicles are blurred The road condition is good with no visible damage or water The sky is obscured by fog,0
+train\Fog\foggy-065.jpg,The traffic road has low visibility the sky is hazy,0
+train\Fog\foggy-066.jpg,The visibility is low the sky is overcast and the road is wet,0
+train\Fog\foggy-067.jpg,The visibility is low the sky is hazy The road surface appears smooth and dry,0
+train\Fog\foggy-068.jpg,The traffic road has low visibility due to fog The air appears moist and the road is clear with no visible wetness The sky is covered by fog making the light dim,0
+train\Fog\foggy-069.jpg,The traffic road has low visibility due to dense fog,0
+train\Fog\foggy-070.jpg,The traffic road shows low visibility due to fog The sky is overcast and the road appears wet,0
+train\Fog\foggy-072.jpg,The traffic road has low visibility due to fog The road is wet with possible standing water The sky is obscured by the fog,0
+train\Fog\foggy-073.jpg,The traffic road appears wet likely due to recent rain The sky is overcast reducing visibility Theres a mist of water vapor on the road making the scene somewhat hazy,0
+train\Fog\foggy-074.jpg,The traffic road has low visibility the sky is overcast and the road surface is slippery,0
+train\Fog\foggy-075.jpg,The traffic road is wet and slippery with low visibility The sky appears overcast,0
+train\Fog\foggy-076.jpg,The visibility is low due to the dense fog The road conditions are obscured and the sky is not visible,0
+train\Fog\foggy-077.jpg,The traffic road shows poor air quality low visibility wet road conditions and a cloudy sky,0
+train\Fog\foggy-078.jpg,The traffic road has low visibility due to fog The wet road reflects the car lights making driving difficult The sky is overcast with dim lighting,0
+train\Fog\foggy-079.jpg,The traffic road appears blurry indicating poor visibility The road looks wet suggesting damp conditions The sky is overcast creating a gloomy atmosphere,0
+train\Fog\foggy-080.jpg,The traffic road appears hazy with low visibility The road looks wet likely due to recent rain The sky is overcast giving a dim appearance,0
+train\Fog\foggy-081.jpg,The traffic road has low visibility due to fog The road is wet and slippery with possible puddles The sky is overcast with dim lighting,0
+train\Fog\foggy-083.jpg,The traffic road has low visibility due to fog The air quality is poor but the road condition is good with no visible wetness The sky is obscured by fog,0
+train\Fog\foggy-084.jpg,The traffic road has low visibility due to water droplets on the glass The road is wet and slippery with possible standing water The sky is overcast with dim lighting,0
+train\Fog\foggy-085.jpg,The traffic road has low visibility due to fog The distant vehicles and road signs are blurred The road condition is good with no visible damage or water The sky is obscured by fog,0
+train\Fog\foggy-086.jpg,The traffic road appears wet reflecting vehicle lights and surrounding blurred images Visibility is low due to the damp conditions The sky is overcast with dim lighting creating a gloomy atmosphere,0
+train\Fog\foggy-087.jpg,The traffic road has low visibility likely due to suspended particles in the air The road appears wet possibly from recent rain or fog The sky is hazy with no visible sunlight,0
+train\Fog\foggy-088.jpg,The traffic road appears wet likely due to recent rain Visibility is low and the road seems slippery The sky is overcast with no clear blue sky or sunlight visible,0
+train\Fog\foggy-089.jpg,The visibility is low due to the presence of suspended particles in the air The road surface appears smooth and clear The sky is overcast with a grayish hue,0
+train\Fog\foggy-090.jpg,The visibility is low the sky is hazy The road appears wet and slippery,0
+train\Fog\foggy-091.jpg,The traffic road has low visibility due to foggy weather The road is wet with possible puddles The sky is overcast,0
+train\Fog\foggy-092.jpg,The traffic road has low visibility due to fog The road condition is good with no visible damage The sky is obscured by fog,0
+train\Fog\foggy-093.jpg,The traffic road has low visibility likely due to fog or haze The road surface appears smooth and dry The sky is overcast with dim lighting,0
+train\Fog\foggy-094.jpg,The traffic road has low visibility possibly due to a meteorological phenomenon The sky appears hazy and the road seems slightly slippery,0
+train\Fog\foggy-095.jpg,The visibility is low the sky is hazy The road surface appears smooth and dry,0
+train\Fog\foggy-096.jpg,The traffic road has low visibility the sky is hazy The road surface appears smooth and dry,0
+train\Fog\foggy-097.jpg,The traffic road has low visibility likely due to suspended particles or moisture The road appears wet possibly from recent rain The sky is overcast with dim lighting creating a hazy atmosphere,0
+train\Fog\foggy-098.jpg,The traffic road has low visibility due to fog The air appears slightly hazy but the exact air quality cannot be determined from the image The road surface looks smooth with no visible water or potholes The sky is covered by fog making the light dim,0
+train\Fog\foggy-099.jpg,The traffic road has low visibility due to fog The road surface is wet reflecting vehicle lights The sky is overcast with no clear light penetration,0
+train\Fog\foggy-100.jpg,The traffic road is wet and slippery with low visibility The sky appears overcast,0
+train\Fog\foggy-102.jpg,The traffic road is wet reducing visibility The sky is overcast with dim lighting,0
+train\Fog\foggy-103.jpg,The traffic road is wet with reflective red lights Visibility is low and the sky is overcast,0
+train\Fog\foggy-104.jpg,The traffic road shows low visibility due to fog The wet road reflects vehicle taillights indicating possible rain or damp conditions The sky appears hazy with no clear clouds or sunlight visible,0
+train\Fog\foggy-105.jpg,The traffic road has low visibility due to fog The road condition is good with no visible damage or water The sky is obscured by fog,0
+train\Fog\foggy-106.jpg,The visibility is low due to fog The road surface appears clear The sky is obscured by the fog,0
+train\Fog\foggy-107.jpg,The traffic road shows poor air quality low visibility wet and slippery surface with puddles The sky is covered by dense fog,0
+train\Fog\foggy-108.jpg,The traffic road has low visibility due to fog The sky appears overcast and the overall atmosphere is hazy,0
+train\Fog\foggy-109.jpg,The weather is foggy reducing visibility The road condition is clear,0
+train\Fog\foggy-111.jpg,The traffic road has low visibility due to fog The wet road reflects faint light The sky is covered with a thin layer of haze making the scene somewhat hazy,0
+train\Fog\foggy-112.jpg,The visibility is low due to particulate matter in the air The road surface appears smooth and dry The sky is overcast with dim lighting,0
+train\Fog\foggy-113.jpg,The traffic road has low visibility the sky is hazy,0
+train\Fog\foggy-114.jpg,The traffic road has low visibility due to fog The road appears wet reflecting the vehicles lights The sky is covered with fog making it dark and gloomy,0
+train\Fog\haze-002.jpg,The traffic road has low visibility due to fog The sky is overcast and the air quality may be affected,0
+train\Fog\haze-003.jpg,The traffic road shows poor air quality low visibility wet road conditions and a cloudy sky,0
+train\Fog\haze-004.jpg,The traffic road has low visibility due to fog The air appears moist and the road looks slippery The sky is covered with fog making the light dim,0
+train\Fog\haze-005.jpg,The air quality is poor visibility is low The road appears wet likely due to recent rain The sky is covered by dense fog making distant objects unclear,0
+train\Fog\haze-006.jpg,The visibility is low due to air pollution The road condition is good with no visible damage or water The sky appears hazy indicating poor air quality,0
+train\Fog\haze-007.jpg,The visibility is low the sky is dark The road appears blurry and vehicle taillights glow faintly in the distance,0
+train\Fog\haze-009.jpg,The visibility is low due to fog The air appears moist and the road is clear The sky is uniformly gray,0
+train\Fog\haze-010.jpg,The image shows low visibility due to fog The road appears wet and the sky is dark and overcast,0
+train\Fog\haze-011.jpg,The image shows a low visibility condition with a foggy sky wet road surface and reduced clarity,0
+train\Fog\haze-012.jpg,The traffic road is shrouded in a low visibility creating a hazy atmosphere The road appears wet indicating high humidity The sky is overcast contributing to the foggy ambiance,0
+train\Fog\haze-013.jpg,The traffic road has low visibility due to air pollution The sky appears hazy and the overall scene is foggy,0
+train\Fog\haze-016.jpg,The traffic road has low visibility with vehicles outlines appearing blurry The road appears wet reflecting bright light The sky is unclear creating a hazy atmosphere due to fine particles in the air,0
+train\Fog\haze-018.jpg,The visibility is low the sky is hazy,0
+train\Fog\haze-019.jpg,The traffic road shows poor air quality low visibility and a slightly blurred road surface The sky appears hazy overall,0
+train\Fog\haze-020.jpg,The traffic road has low visibility due to air pollution The road condition is good with no visible damage The sky is obscured by a thick layer of haze,0
+train\Fog\haze-021.jpg,The traffic road has low visibility due to fog The sky is hazy and the road appears wet,0
+train\Fog\haze-022.jpg,The visibility is low due to fog The sky is overcast and the road appears wet,0
+train\Fog\haze-023.jpg,The visibility is extremely low due to dense fog The road appears slippery possibly with ice or snow The sky is overcast giving a gloomy atmosphere,0
+train\Fog\haze-024.jpg,Visibility is low and the road appears wet The sky is overcast,0
+train\Fog\haze-026.jpg,The traffic road has low visibility due to the dim light and mist The road condition is good with no visible damage or water The sky appears hazy with the main light sources being street lamps and vehicle headlights,0
+train\Fog\haze-027.jpg,The traffic road shows poor air quality low visibility and a cloudy sky,0
+train\Fog\haze-028.jpg,The traffic road has low visibility the sky is hazy and the air quality is poor,0
+train\Fog\haze-029.jpg,The traffic road has low visibility due to fog The air is hazy and the distant vehicles and road are blurred The road appears smooth with no visible wetness The sky is covered in fog creating a misty atmosphere,0
+train\Fog\haze-030.jpg,The traffic road has low visibility due to fog The sky is overcast and the air quality appears poor,0
+train\Fog\haze-031.jpg,The traffic road has low visibility due to fog The sky is dark blue and the road appears smooth but details are unclear,0
+train\Fog\haze-032.jpg,The traffic road has low visibility due to fog The road surface is clear with no visible wetness The sky is covered by fog making the surroundings dim,0
+train\Fog\haze-033.jpg,The traffic road shows poor air quality low visibility wet road conditions and a cloudy sky,0
+train\Fog\haze-036.jpg,The traffic road has low visibility possibly due to mist or dust The sky is purple likely from light refraction or reflection The road appears flat but has vehicles and people indicating possible accidents or emergencies,0
+train\Fog\haze-037.jpg,The visibility is low due to the presence of suspended particles in the air The road appears slippery potentially affecting vehicle safety The sky is obscured by a thick layer of haze,0
+train\Fog\haze-038.jpg,The traffic road has low visibility due to suspended particles in the air The road condition is good with no visible damage or water The sky appears hazy with soft lighting,0
+train\Fog\haze-039.jpg,The traffic road shows poor air quality low visibility wet road conditions and a cloudy sky,0
+train\Fog\haze-040.jpg,The weather conditions show low visibility a hazy sky and a clear road surface,0
+train\Fog\haze-041.jpg,The traffic road has low visibility due to fog The air appears slightly hazy likely due to pollutants in the fog The road is clear with no visible water or potholes The sky is covered by fog making it dark and blurry,0
+train\Fog\haze-042.jpg,The visibility is low due to fog The road is wet and slippery with possible puddles The sky is obscured by fog,0
+train\Fog\haze-043.jpg,The traffic road has low visibility due to fog The road condition is good with no visible damage or water accumulation The sky appears hazy with soft lighting and no strong sunlight,0
+train\Fog\haze-044.jpg,The visibility is low the sky is dark and the road is wet,0
+train\Fog\haze-045.jpg,The traffic road has low visibility due to fog The road condition is good with no visible water or ice The sky is covered by fog,0
+train\Fog\haze-046.jpg,The traffic road has low visibility likely due to mist or particles in the air The road appears wet possibly from recent rain The sky is overcast with dim lighting,0
+train\Fog\haze-048.jpg,The traffic road shows poor air quality low visibility and normal road conditions The sky appears overcast,0
+train\Fog\haze-049.jpg,The visibility is low due to the dark sky and possible haze The road appears smooth but details are hard to discern The sky is overcast with a yellowish hue from the lights,0
+train\Fog\haze-050.jpg,The air quality is poor visibility is low and the road is slippery The sky appears overcast,0
+train\Fog\haze-051.jpg,The traffic road has low visibility due to fog The sky is overcast and the road appears slightly wet,0
+train\Fog\haze-053.jpg,The traffic road has low visibility the sky is hazy The road is busy with vehicles but not congested,0
+train\Fog\haze-054.jpg,The air quality is poor reducing visibility The road condition is good vehicles are driving normally The sky is overcast,0
+train\Fog\haze-056.jpg,The traffic road has low visibility due to fog The air is hazy but there is no visible pollution The road condition is good with no signs of wetness or slippage The sky is covered in fog making the light dim,0
+train\Fog\haze-057.jpg,The traffic road has low visibility due to fog The distant vehicles and trees appear blurred The road condition is good with no visible water or potholes The sky appears hazy with light diffused through the fog,0
+train\Fog\haze-058.jpg,The traffic road has low visibility due to fog The road appears wet potentially affecting safety The sky is hazy indicating poor air quality,0
+train\Fog\haze-059.jpg,The road has low visibility possibly due to mist or dust The sky is purple likely from light refraction or reflection The road appears wet probably due to poor lighting at night,0
+train\Fog\haze-060.jpg,The traffic road has low visibility due to fog The sky is overcast and the road surface is clear with no visible water or ice,0
+train\Fog\haze-061.jpg,The traffic road has low visibility the sky is a deep blue color The road surface appears smooth but details are unclear due to poor visibility,0
+train\Fog\haze-063.jpg,The weather is foggy reducing visibility The sky is uniformly grayishwhite The road appears smooth but details are unclear due to the mist,0
+train\Fog\haze-064.jpg,The traffic road has low visibility due to suspended particles The road is wet and icy with snow traces Vehicles produce smoke while driving The sky is overcast without clear sunlight or blue skies,0
+train\Fog\haze-065.jpg,The traffic road has low visibility due to fog The road condition is good with no visible water or ice The sky is covered by fog making the distant scenery unclear,0
+train\Fog\haze-066.jpg,The traffic road has low visibility due to fog The air quality is affected but the specific pollution level is unclear The road condition is good with no visible damage The sky appears overcast indicating a low visibility weather condition,0
+train\Fog\haze-067.jpg,The traffic road has low visibility due to foggy weather The road is wet reflecting the lights of vehicles The sky appears overcast with no clear blue or clouds visible,0
+train\Fog\haze-068.jpg,The road appears wet likely from recent rain The sky is hazy with low visibility due to small particles in the air The weather is overcast but not severe,0
+train\Fog\haze-069.jpg,The visibility is low due to the presence of suspended particles The road condition is good with no visible damage or water The sky is not clear due to the fog,0
+train\Fog\haze-071.jpg,The visibility is low the sky is hazy The road surface appears smooth and dry,0
+train\Fog\haze-072.jpg,The traffic road has low visibility due to fog The sky is overcast and the road appears wet with possible standing water,0
+train\Fog\haze-074.jpg,The traffic road has low visibility due to fog The road condition is good with no visible damage The sky is obscured by the fog,0
+train\Fog\haze-075.jpg,The visibility is low likely due to air pollution or mist The road appears smooth and clear The sky is overcast,0
+train\Fog\haze-077.jpg,The visibility is low due to fog The sky appears overcast and the road looks wet,0
+train\Fog\haze-078.jpg,The traffic road has low visibility due to fog The air appears moist and the road is in good condition with no visible damage The sky is covered by fog creating a hazy atmosphere,0
+train\Fog\haze-080.jpg,The visibility is low due to fog The road is clear and the sky is obscured by fog,0
+train\Fog\haze-081.jpg,The traffic road is obscured by low visibility due to dense fog,0
+train\Fog\haze-082.jpg,The traffic road has low visibility due to fog The road condition is good with no visible damage or water The sky is obscured by fog,0
+train\Fog\haze-083.jpg,The traffic road has low visibility due to suspended particles The road is wet and covered with snow causing vehicles to produce smoke The sky is overcast without clear sunlight or blue skies,0
+train\Fog\haze-084.jpg,The road surface appears wet likely due to recent rain Visibility is low possibly due to mist or particulate matter in the air The sky is overcast with no visible sunlight,0
+train\Fog\haze-085.jpg,The visibility is low due to fog The air appears hazy The road is clear and flat The sky is covered with fog creating a soft glow,0
+train\Fog\haze-086.jpg,The weather is foggy reducing visibility The road appears wet likely due to humidity The sky is overcast and dark,0
+train\Fog\haze-087.jpg,The traffic road has low visibility due to dense fog The road condition is good with no visible damage or water The sky is covered by thick fog making the environment dark and gloomy,0
+train\Fog\haze-088.jpg,The road is wet visibility is low and the sky is overcast,0
+train\Fog\haze-090.jpg,The traffic road has low visibility due to fog The sky is overcast and the road is wet reflecting vehicle lights,0
+train\Fog\haze-091.jpg,The traffic road shows poor air quality low visibility wet road conditions and a cloudy sky,0
+train\Fog\haze-092.jpg,The traffic road shows poor air quality low visibility and good road conditions The sky is hazy,0
+train\Fog\haze-093.jpg,The traffic road has low visibility due to dense fog,0
+train\Fog\haze-094.jpg,The traffic road has low visibility due to fog The sky is uniformly white with no visible clouds or blue sky The road condition is good with no apparent water or damage Overall the weather appears overcast and foggy,0
+train\Fog\haze-095.jpg,The air quality is poor visibility is low and the road is slippery The sky appears hazy with light filtering through,0
+train\Fog\haze-096.jpg,The visibility is low due to fog The air appears hazy The road surface is clear The sky is obscured by fog,0
+train\Fog\haze-097.jpg,The traffic road has low visibility due to the presence of suspended particles in the air The road condition is good with no visible wet or slippery areas The sky is obscured by a thick layer of haze,0
+train\Fog\haze-098.jpg,The traffic road has low visibility due to fog The sky appears hazy and the distant vehicles and traffic lights are blurred The road looks dry but details are unclear due to the fog,0
+train\Fog\haze-099.jpg,The traffic road shows low visibility due to fog The air appears moist and the sky is hazy with dim lighting,0
+train\Fog\haze-100.jpg,The road surface appears wet likely due to recent rain Visibility is low possibly due to mist or particulate matter in the air The sky is overcast,0
+train\Fog\haze-101.jpg,The traffic road has low visibility due to fog The distant vehicles and streetlights appear blurred The road condition is good with no visible damage or water The sky is obscured by fog with light filtering through,0
+train\Fog\haze-102.jpg,The traffic road is shrouded in mist reducing visibility The road appears wet likely due to recent rain or dew The sky is overcast with no sunlight,0
+train\Fog\haze-103.jpg,The traffic road has low visibility due to light reflection and the headlights of the car The sky shows a twilight hue but the air quality is unclear The road appears smooth with no visible water or potholes,0
+train\Fog\haze-104.jpg,The visibility is low due to fog The sky is overcast and the road conditions are poor,0
+train\Fog\haze-105.jpg,The traffic road shows poor air quality low visibility and a thick layer of haze covering the sky,0
+train\Fog\haze-106.jpg,The traffic road has low visibility due to air pollution The road condition is good with no visible damage The sky appears hazy,0
+train\Fog\haze-109.jpg,The traffic road has low visibility the sky is hazy,0
+train\Fog\haze-110.jpg,The air quality is poor visibility is low the road is slippery and the sky is overcast,0
+train\Fog\haze-111.jpg,The traffic road is hazy with low visibility The sky appears overcast and the light is diffused through the haze,0
+train\Fog\haze-112.jpg,The traffic road shows poor air quality low visibility and a blurred road surface The sky is covered by dense fog,0
+train\Fog\haze-115.jpg,The traffic road has low visibility due to fog The road is wet possibly with standing water The sky is obscured by the fog,0
+train\Fog\haze-119.jpg,The traffic road shows poor air quality low visibility and a thick layer of haze covering the sky The road conditions are clear but the overall environment appears gloomy,0
+train\Fog\haze-120.jpg,The traffic road has low visibility due to fog The road is wet possibly with standing water The sky is obscured by fog,0
+train\Fog\haze-121.jpg,The image shows a low visibility condition with a hazy sky The road has reflective markings and traffic cones indicating possible construction or maintenance work The ground appears smooth and dry The overall environment is dimly lit,0
+train\Fog\haze-122.jpg,The air quality is poor visibility is low and the road surface appears blurred The sky is overcast with a grayish hue,0
+train\Fog\haze-124.jpg,The visibility is low due to fog The road appears wet likely from the mist The sky is overcast and dark,0
+train\Fog\haze-126.jpg,The road is wet reflecting the surroundings The sky has a hazy tone with low visibility but no visible fog or haze The poles and vehicles are clearly in the light The weather gives a slightly overcast impression,0
+train\Fog\haze-128.jpg,The visibility is low due to fog The road surface appears clear and the sky is obscured by fog,0
+train\Fog\haze-129.jpg,The traffic road shows low visibility with a misty sky and wet pavement,0
+train\Fog\haze-130.jpg,The traffic road has low visibility the sky is hazy The road surface is smooth and dry,0
+train\Fog\haze-132.jpg,The visibility is low due to the presence of suspended particles The road surface is clear but details in the distance are obscured by fog The sky is covered by dense fog making it difficult to see specific weather conditions,0
+train\Fog\haze-134.jpg,The traffic road is shrouded in a thick fog reducing visibility The road appears wet and slippery The sky is covered with dense mist creating a gloomy atmosphere,0
+train\Fog\haze-135.jpg,The traffic road has low visibility due to fog The air is hazy making distant vehicles and road signs blurry The road condition is clear with no visible wetness The sky is obscured by fog making it difficult to see the specific color or cloud distribution,0
+train\Fog\haze-136.jpg,The image shows poor air quality low visibility wet road conditions and a sky obscured by dense fog,0
+train\Fog\haze-139.jpg,The traffic road has low visibility due to fog The sky is overcast and the road condition is good,0
+train\Fog\haze-141.jpg,The visibility is low due to the presence of suspended particles in the air The road appears wet likely from humidity The sky is overcast with a grayish hue,0
+train\Fog\haze-142.jpg,The traffic road has low visibility due to fog The sky is overcast and the road appears wet,0
+train\Fog\haze-145.jpg,The traffic road has low visibility due to fog The road condition is good with no visible damage or water The skys condition is unclear but the overall environment appears overcast,0
+train\Fog\haze-148.jpg,The traffic road has low visibility due to fog The road is wet possibly with standing water The sky is overcast giving a gloomy impression,0
+train\Fog\haze-149.jpg,The traffic road has low visibility due to fog The road condition is good with no visible damage or water The skys condition is unclear,0
+train\Fog\haze-150.jpg,The traffic road has low visibility possibly due to suspended particles or moisture The road appears wet likely from recent rain The sky is overcast with no visible sunlight,0
+train\Fog\mist-001.jpg,The traffic road has low visibility due to air pollution The sky is hazy and the overall atmosphere is gray The road condition is good with no visible damage or water accumulation,0
+train\Fog\mist-002.jpg,The traffic road has low visibility due to fog The road appears wet likely from high humidity The sky is overcast with no clear blue or clouds visible,0
+train\Fog\mist-003.jpg,The road is wet likely due to recent rain Visibility is low possibly due to the rain The sky is cloudy or overcast,0
+train\Fog\mist-009.jpg,The traffic road has poor visibility due to wet conditions The sky appears overcast but specific cloud details are unclear,0
+train\Fog\mist-013.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,0
+train\Fog\mist-015.jpg,The traffic road has low visibility due to fog The sky is covered with fog making distant vehicles appear blurry The road condition is good with no visible damage or water accumulation,0
+train\Fog\mist-016.jpg,The traffic road appears wet likely due to recent rain Visibility is low possibly from rain reflections and refractions The sky looks overcast with no clear blue or sunlight Overall the weather seems damp and hazy,0
+train\Fog\mist-019.jpg,The weather is hazy with low visibility The sky is covered in mist making distant objects appear blurry The road surface is clear and wellmaintained,0
+train\Fog\mist-020.jpg,The traffic road has low visibility due to fog The air appears humid and the road looks wet The sky is obscured by fog with a bright halo effect from the light,0
+train\Fog\mist-021.jpg,The traffic road has low visibility due to fog The road is wet and slippery possibly with ice or snow The sky is covered by fog making it dark,0
+train\Fog\mist-023.jpg,The traffic road has low visibility due to air pollution The sky is hazy and the road surface appears clear,0
+train\Fog\mist-024.jpg,The visibility is low due to fog The road conditions are clear The sky is obscured by fog,0
+train\Fog\mist-027.jpg,The traffic road has low visibility poor air quality and a thick layer of haze covers the sky making distant buildings appear blurry,0
+train\Fog\mist-030.jpg,The traffic road has low visibility due to fog The distant vehicles and signs are blurred The road condition is good with no visible damage or water The skys condition is unclear but the overall environment is hazy,0
+train\Fog\mist-033.jpg,The traffic road has low visibility and the sky appears hazy,0
+train\Fog\mist-034.jpg,The traffic road has low visibility with poor air quality The sky is covered by a thick haze making distant objects blurry,0
+train\Fog\mist-035.jpg,The traffic road has low visibility due to the presence of suspended particles The sky appears hazy and the overall atmosphere is foggy The road conditions are complex with slowmoving vehicles and some congestion,0
+train\Fog\mist-039.jpg,The visibility is low due to fog The road appears clear but the details are obscured by the mist The sky is not visible due to the fog,0
+train\Fog\mist-041.jpg,The traffic road has low visibility due to fog The sky is dark and the road condition is good,0
+train\Fog\mist-042.jpg,The traffic road has low visibility due to dense fog The sky is obscured and the road surface is clearly,0
+train\Fog\mist-043.jpg,The traffic road shows poor air quality low visibility and normal road conditions The sky is hazy,0
+train\Fog\mist-046.jpg,The traffic road has low visibility possibly due to suspended particles or moisture in the air The road appears slightly wet likely from recent rain The sky is overcast with no visible sunlight,0
+train\Fog\mist-048.jpg,Visibility is low due to air pollution Road surface appears slippery Sky is overcast,0
+train\Fog\mist-049.jpg,The traffic road shows poor air quality low visibility and normal road conditions The sky appears hazy,0
+train\Fog\mist-052.jpg,The traffic road is wet visibility is low and the sky is overcast,0
+train\Fog\mist-053.jpg,The traffic road has low visibility due to dense fog The sky is obscured and the air quality is poor,0
+train\Fog\mist-057.jpg,Visibility is low due to particulate matter in the air The road is wet and slippery with possible standing water The sky is overcast with dim lighting,0
+train\Fog\mist-059.jpg,The traffic road has low visibility due to rain The road is wet and slippery with puddles The sky is overcast without clear blue skies or sunlight,0
+train\Fog\mist-061.jpg,The visibility is low due to the weather conditions The road is wet and slippery with visible water on the surface The sky is overcast,0
+train\Fog\mist-062.jpg,The traffic road appears wet likely due to rain Visibility is low possibly due to the rainy conditions The sky looks overcast with no visible sunlight,0
+train\Fog\mist-063.jpg,The traffic road has low visibility due to air pollution The sky appears hazy and the road conditions are normal,0
+train\Fog\mist-064.jpg,The traffic road has low visibility due to fog The road is wet making driving cautious The sky is overcast creating a gloomy atmosphere,0
+train\Fog\mist-067.jpg,The air quality is poor visibility is low the road is slippery and the sky is covered with haze,0
+train\Fog\mist-068.jpg,The traffic road is wet and slippery with low visibility The sky is overcast and the air is humid,0
+train\Fog\mist-071.jpg,The traffic road has low visibility due to foggy weather The road is wet affecting driving safety The sky is overcast with dim lighting,0
+train\Fog\mist-072.jpg,The visibility is low due to fog The road is wet and slippery with possible standing water The sky is overcast with dim lighting,0
+train\Fog\mist-074.jpg,The traffic road has low visibility poor air quality and the sky is covered with haze,0
+train\Fog\mist-075.jpg,The traffic road is wet visibility is low and the sky is cloudy,0
+train\Fog\mist-080.jpg,The visibility is low the sky is overcast and the road conditions are good,0
+train\Fog\mist-084.jpg,The traffic road has low visibility the sky is hazy,0
+train\Fog\mist-088.jpg,The visibility is low the sky is overcast The road appears wet and slippery,0
+train\Fog\mist-098.jpg,The traffic road has low visibility the sky is overcast and the road surface is slippery,0
+train\Fog\mist-101.jpg,The traffic road shows poor air quality low visibility and wet conditions The sky appears overcast creating a hazy atmosphere,0
+train\Fog\mist-105.jpg,The traffic road is wet visibility is low and the sky appears cloudy,0
+train\Fog\mist-109.jpg,The traffic road has low visibility due to fog The road is slippery and vehicles need to drive cautiously The sky is unclear possibly covered by clouds,0
+train\Fog\mist-110.jpg,The traffic road appears blurry with low visibility The road looks wet and reflective The sky is overcast creating a cold damp atmosphere,0
+train\Fog\mist-111.jpg,The traffic road has low visibility due to air pollution or mist The road appears wet likely from humidity The sky is overcast with no sunlight,0
+train\Fog\mist-114.jpg,The traffic road is wet and slippery due to the rain The sky is overcast with low visibility,0
+train\Fog\mist-115.jpg,The traffic road has low visibility due to the presence of water vapor and particles in the air The road appears wet with possible standing water The sky is overcast creating a dim light,0
+train\Fog\mist-117.jpg,The traffic road is shrouded in a hazy atmosphere with low visibility The road appears wet likely due to recent rain or mist The sky is overcast giving an overall gloomy impression,0
+train\Fog\mist-119.jpg,The traffic road has low visibility due to a high concentration of water vapor in the air The road is wet and slippery with visible puddles The sky appears overcast,0
+train\Fog\mist-120.jpg,The traffic road has low visibility possibly due to mist or fine particles in the air The road appears wet likely from moisture The sky is overcast with no clear blue sky or sunlight,0
+train\Rain\rain_storm-001.jpg,The traffic road shows poor visibility due to rain The road is wet and the sky is overcast,1
+train\Rain\rain_storm-002.jpg,The traffic road is wet and slippery with low visibility The sky appears overcast,1
+train\Rain\rain_storm-003.jpg,The visibility is low the sky is hazy The road surface is wet and slippery,1
+train\Rain\rain_storm-004.jpg,The traffic road is wet and slippery likely due to recent rain,1
+train\Rain\rain_storm-005.jpg,The air is humid visibility is low and the road is slippery due to water The skys condition is unclear but appears misty,1
+train\Rain\rain_storm-006.jpg,The traffic road is wet with visible water splashes and puddles Visibility is reduced due to raindrops reflecting and scattering light The sky is overcast creating a dim atmosphere,1
+train\Rain\rain_storm-007.jpg,The traffic road appears wet indicating recent rain,1
+train\Rain\rain_storm-008.jpg,The traffic road has low visibility due to foggy weather The road appears wet potentially affecting vehicle safety The sky is overcast with no clear blue skies or sunlight,1
+train\Rain\rain_storm-009.jpg,The traffic road is wet and slippery due to the standing water The visibility is reduced and the sky appears overcast with a high humidity level,1
+train\Rain\rain_storm-010.jpg,The visibility is low due to fog The road is wet reflecting the lights of vehicles The sky is overcast with a grayish hue,1
+train\Rain\rain_storm-011.jpg,The road surface is wet likely due to recent rain The sky appears overcast with low visibility,1
+train\Rain\rain_storm-012.jpg,The traffic road is wet reflecting vehicle lights The sky appears overcast reducing visibility,1
+train\Rain\rain_storm-013.jpg,The traffic road is wet reflecting vehicle lights The sky is overcast reducing visibility,1
+train\Rain\rain_storm-014.jpg,The traffic road is wet and reflective with a low visibility due to the rain The sky is overcast creating a misty atmosphere,1
+train\Rain\rain_storm-015.jpg,The traffic road appears wet and reflective with lights from vehicles and surroundings The sky is overcast reducing visibility The overall weather is damp and hazy,1
+train\Rain\rain_storm-016.jpg,The traffic road has low visibility due to fog The road is wet reflecting vehicle lights The sky appears overcast with dim lighting,1
+train\Rain\rain_storm-017.jpg,The weather is overcast visibility is low The road is wet and slippery,1
+train\Rain\rain_storm-018.jpg,The traffic road has low visibility due to raindrops on the windshield The sky is overcast and the road is wet,1
+train\Rain\rain_storm-019.jpg,The traffic road has low visibility due to raindrops on the windshield The road is wet and slippery with puddles The sky is overcast with dim lighting,1
+train\Rain\rain_storm-020.jpg,The traffic road has a glossy appearance indicating recent rain Visibility is low due to the wet road reflectinging light The sky appears overcast with no clear sunlight or blue skies,1
+train\Rain\rain_storm-022.jpg,The traffic road has low visibility due to fog The road is wet possibly with standing water The sky is overcast without clear blue skies or sunlight,1
+train\Rain\rain_storm-026.jpg,The air is humid the visibility is low and the road is wet with standing water The skys condition is unclear,1
+train\Rain\rain_storm-030.jpg,The traffic road is wet likely due to recent rain The sky appears overcast with low visibility,1
+train\Rain\rain_storm-034.jpg,The weather is humid with a high level of water vapor Visibility is reduced due to the mist The road is wet and has standing water The sky is overcast,1
+train\Rain\rain_storm-038.jpg,The air is humid visibility is low the road is wet with puddles and the sky is overcast,1
+train\Rain\rain_storm-042.jpg,The traffic road has low visibility due to fog The road is wet possibly with standing water The sky is overcast,1
+train\Rain\rain_storm-046.jpg,The road appears wet likely from recent rain The sky is overcast reducing visibility,1
+train\Rain\rain_storm-050.jpg,The traffic road has low visibility due to fog The road is wet reflecting the lights of the vehicles The sky appears overcast,1
+train\Rain\rain_storm-054.jpg,The road appears wet likely due to rain The sky is overcast and visibility is low possibly due to mist or fine particles in the air,1
+train\Rain\rain_storm-058.jpg,The traffic road is wet and slippery with low visibility The sky is overcast creating a dim atmosphere,1
+train\Rain\rain_storm-062.jpg,The traffic road is wet and slippery with low visibility The sky is overcast creating a dim and hazy atmosphere,1
+train\Rain\rain_storm-066.jpg,The traffic road has low visibility due to fog The road appears slightly wet likely from rain or melted snow The sky is uniformly grayishwhite with no visible clouds,1
+train\Rain\rain_storm-070.jpg,The air is humid visibility is low and the road is wet due to flooding The sky is overcast with dim lighting,1
+train\Rain\rain_storm-074.jpg,The traffic road has low visibility likely due to mist The road appears wet possibly from rain The sky is overcast with no visible sunlight Overall the weather is damp and hazy,1
+train\Rain\rain_storm-078.jpg,The traffic road appears wet likely due to recent rain Visibility is low possibly from rain reflections and refractions The sky looks overcast with no clear blue or sunlight Overall the weather seems damp and hazy,1
+train\Rain\rain_storm-082.jpg,The road is wet reflecting surrounding lights The sky appears overcast reducing visibility The water splashes from vehicles obscure the path ahead,1
+train\Rain\rain_storm-086.jpg,The visibility is low due to high humidity The road is wet and slippery with possible standing water The sky is overcast with dim lighting,1
+train\Rain\rain_storm-090.jpg,The traffic road is wet reflecting vehicle lights Visibility is low due to the wet surface The sky appears overcast suggesting potential rain or recent rainfall,1
+train\Rain\rain_storm-094.jpg,The traffic road has low visibility due to suspended particles in the air The road is wet and slippery possibly with puddles or mud The sky is overcast with no clear blue sky or sunlight,1
+train\Rain\rain_storm-105.jpg,The traffic road is obscured by strong winds and heavy rain making visibility low The road is wet with puddles and the sky is covered with dark clouds,1
+train\Rain\rain_storm-106.jpg,The traffic road has low visibility due to foggy weather The road is wet making driving cautious The sky is overcast with dim lighting,1
+train\Rain\rain_storm-110.jpg,The traffic road has low visibility due to wet conditions The sky is overcast and the overall weather appears gloomy and damp,1
+train\Rain\rain_storm-114.jpg,The traffic road is wet visibility is low and the sky is overcast,1
+train\Rain\rain_storm-118.jpg,The visibility is low due to high humidity The road is slippery making it difficult for vehicles to drive safely The sky is overcast with dim lighting,1
+train\Rain\rain_storm-122.jpg,The traffic road has low visibility the sky is hazy,1
+train\Rain\rain_storm-126.jpg,The road is wet and slippery with visible puddles Visibility is low due to the weather conditions The sky is overcast and the light is dim,1
+train\Rain\rain_storm-130.jpg,The traffic road appears wet likely due to recent rain Visibility is low possibly from the combination of water and mist The sky looks overcast with no clear blue or sunlight,1
+train\Rain\rain_storm-134.jpg,The traffic road is wet and slippery with poor visibility The sky is unclear indicating recent or ongoing precipitation,1
+train\Rain\rain_storm-138.jpg,The traffic road is wet likely due to recent rain The road has some water but no mud The sky is overcast and visibility is average Overall the weather is damp making the road slippery,1
+train\Rain\rain_storm-142.jpg,The weather is foggy with low visibility The road is wet and reflective,1
+train\Rain\rain_storm-146.jpg,The traffic road is wet with low visibility The sky is overcast and the environment feels damp and hazy,1
+train\Rain\rain_storm-150.jpg,The traffic road has low visibility due to mist The wet road surface has puddles affecting the driving vision and safety The sky is overcast with no clear blue sky or sunlight,1
+train\Rain\rain_storm-154.jpg,The weather is overcast visibility is low due to the flood The road is wet and slippery with standing water The sky is dark and cloudy,1
+train\Rain\rain_storm-158.jpg,The traffic road shows visible water vapor evaporation low visibility wet and muddy surface and unclear sky conditions,1
+train\Rain\rain_storm-162.jpg,The traffic road is flooded visibility is low and the sky condition is unclear,1
+train\Rain\rain_storm-168.jpg,The traffic road has low visibility due to fog The road is wet likely from rain or dew The sky is overcast with no clear sunlight or clouds visible,1
+train\Rain\rain_storm-172.jpg,The traffic road has low visibility due to foggy weather The road is wet reflectinging the car lights The sky is overcast with dark clouds,1
+train\Rain\rain_storm-176.jpg,The traffic road is wet and slippery with low visibility,1
+train\Rain\rain_storm-180.jpg,The traffic road is wet reflecting the surrounding lights The sky is dark and cloudy with low visibility due to the wet conditions,1
+train\Rain\rain_storm-186.jpg,The road appears wet likely due to recent rain Visibility is low possibly due to the rain The sky looks overcast but not cloudy,1
+train\Rain\rain_storm-191.jpg,The weather is overcast with low visibility due to the wet road and water spray The road is slippery and has visible puddles indicating recent rain,1
+train\Rain\rain_storm-195.jpg,The traffic road has low visibility due to rain The sky is overcast and the atmosphere feels damp and gloomy,1
+train\Rain\rain_storm-199.jpg,The road is wet and slippery likely due to rain or dew Visibility is low due to mist The sky appears overcast,1
+train\Rain\rain_storm-203.jpg,The road surface is wet likely due to recent rain The sky appears overcast with average visibility,1
+train\Rain\rain_storm-207.jpg,The weather is overcast visibility is low The road is wet and reflective,1
+train\Rain\rain_storm-213.jpg,The weather is overcast visibility is low due to raindrops on the windshield The road is wet and slippery,1
+train\Rain\rain_storm-219.jpg,The traffic road appears hazy with low visibility The road is wet and reflective The sky is overcast creating a dim atmosphere,1
+train\Rain\rain_storm-225.jpg,The traffic road is wet likely due to recent rain The road has some water visibility is clear with no fog or smoke The sky condition is unclear but the environment appears overcast,1
+train\Rain\rain_storm-229.jpg,The traffic road is covered with mist reducing visibility The road surface is slippery The sky condition is unclear,1
+train\Rain\rain_storm-233.jpg,The air is humid visibility is low the road is wet and slippery with standing water The skys condition is unclear,1
+train\Rain\rain_storm-237.jpg,The traffic road is wet reducing visibility The surface reflects vehicle lights and raindrops appearing blurry The sky is overcast with dim lighting but no visible mist or dust Overall the weather is damp affecting driving safety,1
+train\Rain\rain_storm-241.jpg,The air is humid the visibility is low and the road is wet with puddles,1
+train\Rain\rain_storm-245.jpg,The traffic road appears hazy with low visibility The road looks slightly wet possibly due to morning dew or light rain The sky is dimly lit giving a gloomy impression,1
+train\Rain\rain_storm-249.jpg,The traffic road shows a wet and slippery condition due to the splash of water from the vehicle The visibility is reduced and the sky appears overcast,1
+train\Rain\rain_storm-253.jpg,The road appears wet likely from recent rain The sky is overcast with dark clouds reducing visibility,1
+train\Rain\rain_storm-257.jpg,The traffic road has low visibility due to raindrops on the glass The road is wet and vehicles may need to slow down The sky is overcast with no clear blue sky or sunlight,1
+train\Rain\rain_storm-261.jpg,The traffic road shows low visibility due to mist The wet road reflects vehicle lights increasing driving difficulty The sky is unclear but the overall environment appears overcast,1
+train\Rain\rain_storm-265.jpg,The traffic road appears wet likely due to rain or melted snow Visibility is low and the sky is overcast,1
+train\Rain\rain_storm-269.jpg,The traffic road is wet and slippery with low visibility The sky appears overcast,1
+train\Rain\rain_storm-273.jpg,The traffic road is covered in dense fog reducing visibility significantly The road appears slippery with possible wet or icy patches The sky is overcast with a grayish hue,1
+train\Rain\rain_storm-277.jpg,The traffic road has low visibility due to wet conditions The sky is overcast and the overall environment appears cloudy,1
+train\Rain\rain_storm-283.jpg,The traffic road is wet visibility is low and the sky is overcast,1
+train\Rain\rain_storm-289.jpg,The traffic road has low visibility due to fog The road surface is wet reflecting the lights of vehicles The sky appears hazy with light filtering through the clouds,1
+train\Rain\rain_storm-293.jpg,The road surface is wet likely due to recent rain The sky appears overcast with low visibility possibly from mist or fine particles,1
+train\Rain\rain_storm-297.jpg,The traffic road is wet likely due to recent rain Visibility is low possibly from a mix of water and vehicle exhaust The sky appears overcast with no clear blue sky or sunlight,1
+train\Rain\rain_storm-301.jpg,The traffic road is flooded reducing visibility Vehicles splash through the water The road is slippery The skys condition is unclear,1
+train\Rain\rain_storm-305.jpg,The road is wet reflecting the surroundings Visibility is good with clear outlines of distant buildings and vehicles The sky is overcast with no direct sunlight,1
+train\Rain\rain_storm-311.jpg,Visibility is low due to raindrops on the windshield Road conditions are slippery The sky is overcast indicating poor air quality,1
+train\Rain\rain_storm-315.jpg,The traffic road shows low visibility due to fog The road is wet likely from rain or moisture The sky appears overcast with dim lighting,1
+train\Rain\rain_storm-319.jpg,The traffic road has low visibility due to fog The road is wet reflecting vehicle lights The sky appears hazy with soft lighting,1
+train\Rain\rain_storm-323.jpg,The traffic road has low visibility possibly due to fine particles or moisture in the air The road appears wet likely from recent rain The sky is overcast with dim lighting,1
+train\Rain\rain_storm-327.jpg,The traffic road has low visibility due to fog The road is wet reflecting vehicle lights The sky is overcast with no clear sunlight,1
+train\Rain\rain_storm-339.jpg,The traffic road is wet likely due to recent rain The road reflects the surroundings indicating high visibility The skys condition is unclear but suggests overcast weather,1
+train\Rain\rain_storm-343.jpg,The traffic road is wet reflecting the surroundings The sky appears overcast but no precipitation is visible Visibility is high but the wet road may affect driving visibility Overall the weather is damp and the road conditions are poor,1
+train\Rain\rain_storm-351.jpg,The road surface appears wet likely due to recent rain The sky is overcast reducing visibility,1
+train\Rain\rain_storm-355.jpg,The traffic road is wet and slippery due to the standing water The visibility is reduced and the sky appears overcast with dim lighting,1
+train\Rain\rain_storm-361.jpg,The traffic road appears misty with low visibility The road looks wet likely due to rain The sky is overcast creating a dim and gloomy atmosphere,1
+train\Rain\rain_storm-365.jpg,The road is wet indicating recent rain Visibility is low due to the reflective wet surface The sky is overcast with no clear blue sky or sunlight,1
+train\Rain\rain_storm-377.jpg,The traffic road shows low visibility with a wet surface reflecting vehicle lights The sky appears hazy and overcast,1
+train\Rain\rain_storm-381.jpg,Visibility is low due to raindrops on the windshield The road is wet affecting safety The sky is hazy indicating poor air quality,1
+train\Rain\rain_storm-385.jpg,The visibility is low due to the presence of water vapor in the air The road is wet and has visible puddles The sky appears overcast with no distinct cloud cover,1
+train\Rain\rain_storm-391.jpg,The traffic road has low visibility due to raindrops on the windshield The road is slippery and vehicles need to drive cautiously The sky is overcast with dim lighting but no visible fog or haze,1
+train\Rain\rain_storm-395.jpg,The traffic road is wet visibility is low and the sky is overcast,1
+train\Rain\rain_storm-399.jpg,The traffic road is wet and slippery with low visibility The sky appears overcast,1
+train\Rain\rain_storm-403.jpg,The traffic road has low visibility due to foggy weather The road is wet making it slippery for vehicles The sky appears overcast with no clear blue or sunlight,1
+train\Rain\rain_storm-407.jpg,The traffic road is wet and submerged by sea water The sky is overcast with heavy clouds reducing visibility,1
+train\Rain\rain_storm-415.jpg,The visibility is low due to mist or fine particles in the air The road appears slightly wet possibly from rain or another cause The sky is overcast with dim lighting giving a hazy impression,1
+train\Rain\rain_storm-419.jpg,The traffic road is wet and slippery with low visibility The sky is overcast creating a dim atmosphere,1
+train\Rain\rain_storm-423.jpg,The traffic road has low visibility due to air pollution and particles The road is wet reflecting vehicle lights The sky is overcast with a grayish hue,1
+train\Rain\rain_storm-427.jpg,The visibility is low due to raindrops on the glass The sky appears overcast and the road conditions are poor,1
+train\Rain\rain_storm-431.jpg,The traffic road shows low visibility due to raindrops on the windshield The road is wet reflecting vehicle lights and surrounding light The sky appears hazy without clear clouds or sunlight,1
+train\Rain\rain_storm-435.jpg,The traffic road has low visibility due to foggy weather The road is wet and slippery reflecting the light of rain The sky appears overcast with no clear blue or clouds visible,1
+train\Rain\rain_storm-439.jpg,The traffic road appears wet reflecting light The sky is overcast reducing visibility,1
+train\Rain\rain_storm-443.jpg,The weather is overcast visibility is low due to raindrops on the windshield The road is wet reflecting surrounding objects,1
+train\Rain\rain_storm-447.jpg,The traffic road shows low visibility with a wet surface reflecting the surroundings The sky appears hazy and overcast,1
+train\Rain\rain_storm-450.jpg,The traffic road is wet reflecting vehicle lights and surroundings The sky is overcast reducing visibility The weather is damp affecting driving safety,1
+train\Rain\rain_storm-454.jpg,The traffic road is flooded with wet conditions The sky is unclear but it appears to be nighttime or cloudy Visibility is low due to the water and reflections,1
+train\Rain\rain_storm-458.jpg,The road is wet and slippery with low visibility The sky is overcast creating a dim and hazy atmosphere,1
+train\Rain\rain_storm-462.jpg,The air is humid visibility is low the road is wet and slippery with splashes of water The sky is overcast with thick clouds the light is dim,1
+train\Rain\rain_storm-466.jpg,The weather is foggy reducing visibility The road appears wet likely due to moisture The sky is overcast creating a dim atmosphere,1
+train\Rain\rain_storm-475.jpg,The traffic road shows low visibility wet surface with possible standing water The sky is overcast,1
+train\Rain\rain_storm-481.jpg,The visibility is low due to fog The road conditions are clear The sky is overcast,1
+train\Rain\rain_storm-485.jpg,The traffic road has low visibility due to foggy weather The road is wet reflecting the vehicle lights The sky is overcast with no clear blue sky or sunlight,1
+train\Rain\rain_storm-489.jpg,The traffic road appears wet likely due to recent rain The road looks slightly slippery and visibility seems affected The sky is overcast,1
+train\Rain\rain_storm-493.jpg,The traffic road is covered in a thin layer of mist reducing visibility The road appears wet and reflective with vehicle lights creating a blurred effect The sky is overcast giving an overall gloomy atmosphere,1
+train\Rain\rain_storm-497.jpg,The weather is overcast visibility is low The road is wet and slippery,1
+train\Rain\rain_storm-501.jpg,The traffic road is wet visibility is low The sky is overcast the atmosphere appears gloomy,1
+train\Rain\rain_storm-515.jpg,The traffic road has low visibility due to mist The road appears wet with possible puddles The sky is overcast without clear sunlight or blue skies,1
+train\Rain\rain_storm-519.jpg,The traffic road is wet indicating recent rain The sky appears overcast reducing visibility The road has visible water streaks showing it slippery conditions,1
+train\Rain\rain_storm-523.jpg,The traffic road has low visibility due to foggy weather The road is wet reflecting the lights of vehicles The sky appears hazy,1
+train\Rain\rain_storm-527.jpg,The traffic road appears wet likely due to recent rain The road looks slightly slippery and visibility seems affected The sky is overcast,1
+train\Rain\rain_storm-536.jpg,The visibility is low likely due to air pollution or moisture The road appears blurry possibly from foggy weather The sky is overcast with no sunlight,1
+train\Rain\rain_storm-549.jpg,The traffic road has low visibility due to fog The road is wet requiring cautious driving The sky is obscured by the fog,1
+train\Rain\rain_storm-553.jpg,The visibility is low likely due to air pollution or moisture The road appears blurry possibly from foggy weather The sky is overcast with no clear blue sky,1
+train\Rain\rain_storm-563.jpg,The traffic road has low visibility due to fog The road is wet possibly with slight water accumulation The sky appears overcast,1
+train\Rain\rain_storm-568.jpg,The traffic road appears wet likely due to recent rain Visibility is low possibly due to high humidity The sky looks overcast but not cloudy,1
+train\Rain\rain_storm-572.jpg,The traffic road is wet and reflective The sky is overcast reducing visibility,1
+train\Rain\rain_storm-576.jpg,The traffic road appears blurry with low visibility The road is wet reflecting vehicle lights and surrounding light The sky looks overcast with dim lighting,1
+train\Rain\rain_storm-580.jpg,The traffic road has low visibility due to raindrops on the glass The road is slippery requiring cautious driving The sky is overcast with dim lighting affecting the drivers vision,1
+train\Rain\rain_storm-589.jpg,The traffic road is wet and slippery due to the rain The visibility is low likely due to fog,1
+train\Rain\rain_storm-593.jpg,The traffic road appears wet likely due to recent rain Visibility is low possibly from rain reflections and refractions The sky looks overcast but without visible clouds Overall the weather seems damp and hazy,1
+train\Rain\rain_storm-597.jpg,The traffic road is wet reducing visibility The sky is overcast creating a dim atmosphere,1
+train\Rain\rain_storm-601.jpg,The traffic road is wet reflecting the lights The sky is overcast reducing visibility,1
+train\Rain\rain_storm-605.jpg,The traffic road has low visibility due to foggy weather The road is wet with possible puddles The sky is overcast without clear blue skies or sunlight,1
+train\Rain\rain_storm-610.jpg,The road is wet likely from recent rain The sky is overcast reducing visibility There are visible water streaks on the road indicating slippery conditions,1
+train\Rain\rain_storm-614.jpg,The traffic road has low visibility likely due to mist or wet conditions The sky is overcast and the environment appears damp,1
+train\Rain\rain_storm-618.jpg,The traffic road has low visibility possibly due to air particles or moisture The road appears wet likely from recent rain The sky is overcast with dim lighting,1
+train\Rain\rain_storm-622.jpg,The visibility is low due to fog The road is wet likely from rain The sky is overcast with no clear blue sky,1
+train\Rain\rain_storm-626.jpg,The visibility is extremely low the sky is covered with dense fog and the road surface is slippery,1
+train\Rain\rain_storm-630.jpg,The traffic road is wet and slippery due to flooding Visibility is low,1
+train\Rain\rain_storm-634.jpg,The air quality is poor visibility is low The road is wet and flooded The sky is overcast with dim lighting,1
+train\Rain\rain_storm-638.jpg,The traffic road is wet and slippery with visible puddles and reflections Visibility is low and the sky is overcast,1
+train\Rain\rain_storm-642.jpg,The traffic road has low visibility due to fog The road appears wet likely from recent rain or standing water The sky is overcast with a grayish hue,1
+train\Rain\rain_storm-646.jpg,The road appears wet likely from recent rain There is some smoke or steam in the air reducing visibility The sky is not clearly visible,1
+train\Rain\rain_storm-650.jpg,The road appears wet likely from recent rain Visibility is low due to humidity or light mist The sky is overcast with dim lighting,1
+train\Rain\rain_storm-654.jpg,The weather is overcast visibility is low The road appears wet with possible puddles,1
+train\Rain\rain_storm-658.jpg,The weather is hazy reducing visibility The road is clear and dry,1
+train\Rain\rain_storm-662.jpg,The weather is foggy reducing visibility The sky is overcast and the road appears wet,1
+train\Rain\rain_storm-667.jpg,The traffic road has low visibility the sky is unclear and the road surface is wet,1
+train\Rain\rain_storm-676.jpg,The air quality is poor visibility is extremely low and the road surface is slippery The sky appears hazy,1
+train\Rain\rain_storm-681.jpg,The traffic road shows poor air quality low visibility clear road conditions and a sky covered in haze,1
+train\Rain\rain_storm-685.jpg,The traffic road is wet with a misty atmosphere and low visibility The surface is slippery due to the water The skys condition is unclear but the environment feels damp,1
+train\Rain\rain_storm-688.jpg,The air is humid and the visibility is low The road is wet and reflective due to the water The skys condition is unclear but the environment appears damp and overcast,1
+train\Rain\rain_storm-692.jpg,The road is wet visibility is low The sky is overcast with thick clouds,1
+train\Rain\rain_storm-696.jpg,Current visibility is low due to raindrops on the windshield Road conditions are slippery affecting safety The sky appears hazy with soft lighting,1
+train\Rain\rain_storm-700.jpg,The road is wet reflecting vehicle lights The sky is overcast reducing visibility,1
+train\Rain\rain_storm-704.jpg,The road is wet likely from recent rain The surface reflects vehicle lights indicating high visibility The sky appears overcast but not dark,1
+train\Rain\rain_storm-708.jpg,The traffic road is wet reducing visibility The sky is overcast with dim lighting,1
+train\Sand\dusttornado-001.jpg,The traffic road has poor visibility due to air pollution The sky is overcast and the road condition is clear,2
+train\Sand\dusttornado-002.jpg,The traffic road has low visibility due to suspended particles in the air The road appears wet likely from recent rain or damp conditions The sky is obscured by a layer of haze,2
+train\Sand\dusttornado-003.jpg,The traffic road has low visibility the sky is yellow Vehicles are driving normally on the road,2
+train\Sand\dusttornado-004.jpg,The traffic road is covered in a thick layer of dust reducing visibility The sky is obscured by the haze creating a hazy atmosphere The road appears dry and clear,2
+train\Sand\dusttornado-005.jpg,The traffic road shows poor air quality low visibility and a uniform grayishbrown sky The road conditions are good with vehicles driving on the road,2
+train\Sand\dusttornado-006.jpg,The traffic road has low visibility due to a thick layer of haze The road appears wet likely from recent rain The sky is obscured by the haze,2
+train\Sand\dusttornado-007.jpg,The traffic road has low visibility due to a large amount of suspended particles in the air The road appears smooth but details are unclear due to poor visibility The sky is hazy with no distinct color,2
+train\Sand\dusttornado-008.jpg,The traffic road shows poor air quality low visibility and clear road conditions The sky appears hazy,2
+train\Sand\dusttornado-010.jpg,The air quality is poor visibility is low and the sky is orange The road appears dry with no visible anomalies,2
+train\Sand\dusttornado-012.jpg,The traffic road has low visibility possibly due to air pollution The sky is unclear,2
+train\Sand\dusttornado-013.jpg,The traffic road has low visibility due to air pollution The road appears dry and clear The sky is hazy indicating poor air quality,2
+train\Sand\dusttornado-014.jpg,The visibility is low due to weather conditions The road is wet with possible standing water The sky is overcast,2
+train\Sand\dusttornado-015.jpg,The traffic road has low visibility due to air pollution The sky is hazy and the road surface appears dry,2
+train\Sand\dusttornado-016.jpg,The traffic road has low visibility due to the presence of suspended particles The road appears dry with no visible wet patches The sky is hazy creating a foggy atmosphere,2
+train\Sand\dusttornado-017.jpg,The traffic road has low visibility due to air pollution The sky appears hazy and the road looks dry,2
+train\Sand\dusttornado-018.jpg,The traffic road has an orange hue low visibility possibly due to air pollution or dust The road appears smooth with no visible water or potholes The sky is very hazy giving a gloomy impression,2
+train\Sand\dusttornado-019.jpg,The traffic road has an orange hue low visibility and a uniform orange sky The road appears dry but details are unclear due to the color,2
+train\Sand\dusttornado-020.jpg,The traffic road shows poor air quality low visibility and a slightly wet surface The sky appears hazy,2
+train\Sand\dusttornado-021.jpg,The traffic road has low visibility possibly due to suspended particles or moisture in the air The road appears slightly wet The sky is dark and dimly lit,2
+train\Sand\dusttornado-022.jpg,The traffic road shows low visibility with a hazy sky and wet conditions,2
+train\Sand\dusttornado-023.jpg,The traffic road shows poor air quality low visibility and an orange sky The road condition is good with no visible damage or water,2
+train\Sand\dusttornado-024.jpg,The traffic road shows poor air quality and low visibility The road appears slightly blurred and the sky is obscured by a yellow haze,2
+train\Sand\dusttornado-025.jpg,The visibility is low the sky is hazy The road surface appears smooth but details are unclear due to poor visibility,2
+train\Sand\dusttornado-026.jpg,The traffic road has low visibility possibly due to pollution or dust The sky is unclear but no specific weather phenomena are visible The road appears clean with no apparent anomalies,2
+train\Sand\dusttornado-027.jpg,The traffic road shows poor air quality low visibility and a blurry road condition The sky is unclear,2
+train\Sand\dusttornado-029.jpg,The traffic road has low visibility with a hazy orange sky The road appears dry and clear,2
+train\Sand\dusttornado-030.jpg,The traffic road is shrouded in a hazy atmosphere reducing visibility The sky appears overcast with no clear sunlight The road seems slightly wet likely due to atmospheric moisture Overall the weather gives a gloomy impression affecting driving visibility and safety,2
+train\Sand\dusttornado-031.jpg,The air quality is poor visibility is low and the sky is obscured by a layer of orange haze The road appears slightly wet,2
+train\Sand\dusttornado-032.jpg,The traffic road has low visibility possibly due to a weather phenomenon The sky is overcast and the road appears slightly wet,2
+train\Sand\dusttornado-033.jpg,The traffic road has low visibility possibly due to a meteorological phenomenon The sky appears hazy and the road looks dry,2
+train\Sand\dusttornado-034.jpg,The traffic road has low visibility due to fog The distant buildings and vehicles are barely visible The road condition is good with no apparent wet or snowy patches The sky is covered by fog making the light dim,2
+train\Sand\dusttornado-035.jpg,The traffic road has an orange hue low visibility and a hazy sky The road appears dry with no visible wetness or slipperiness,2
+train\Sand\dusttornado-036.jpg,The traffic road is obscured by low visibility due to dense fog The vehicles and road signs are barely visible in the distance The road surface appears clear with no apparent damage or water The sky condition is not discernible due to the fog,2
+train\Sand\dusttornado-038.jpg,The traffic road has a hazy orangeyellow hue Visibility is low and the sky appears cloudy The road surface shows slight dust but no clear signs of water or snow Overall air quality is poor likely due to sandstorm conditions,2
+train\Sand\dusttornado-909.jpg,The traffic road shows poor air quality and low visibility The sky appears hazy,2
+train\Sand\dusttornado-937.jpg,The traffic road has low visibility due to poor air quality,2
+train\Sand\sand_storm-001.jpg,The traffic road shows poor air quality and low visibility The sky appears hazy creating a dim atmosphere,2
+train\Sand\sand_storm-002.jpg,The traffic road is covered with a thick layer of dust reducing visibility The sky appears hazy and gray,2
+train\Sand\sand_storm-004.jpg,The visibility is low due to fog The road appears wet affecting safety The sky is hazy,2
+train\Sand\sand_storm-006.jpg,The traffic road has low visibility due to air pollution The sky is hazy and the road surface is clear,2
+train\Sand\sand_storm-008.jpg,The air quality is poor visibility is low The sky is covered with thick smoke Vehicles are driving on the road but the environment appears dark,2
+train\Sand\sand_storm-009.jpg,The traffic road shows poor air quality low visibility and a hazy yellow sky The road condition is good with no visible damage or water,2
+train\Sand\sand_storm-010.jpg,The traffic road has a reddish hue low visibility The road appears smooth with no visible water or potholes The sky is uniformly red,2
+train\Sand\sand_storm-012.jpg,The traffic road has low visibility due to suspended particles The road condition is good with no visible damage or water The skys condition is unclear due to the low visibility,2
+train\Sand\sand_storm-014.jpg,The traffic road has poor air quality low visibility and an orange sky Vehicles are driving on the road with dim lighting making the road conditions somewhat unclear,2
+train\Sand\sand_storm-016.jpg,The traffic road shows poor air quality low visibility and unclear road conditions The sky has an orange hue indicating dust storm or sandstorm weather,2
+train\Sand\sand_storm-019.jpg,The traffic road is covered by a yellow haze reducing visibility The sky appears orange Vehicles are barely visible in the distance,2
+train\Sand\sand_storm-020.jpg,The traffic road is obscured by a thick haze reducing visibility The sky is filled with smoke creating a hazy atmosphere The road appears dry and clear,2
+train\Sand\sand_storm-021.jpg,The traffic road is covered by a thick layer of orange haze reducing visibility significantly The sky appears opaque and orange indicating poor air quality,2
+train\Sand\sand_storm-024.jpg,The traffic road is covered with a thick layer of dust reducing visibility The sky appears hazy,2
+train\Sand\sand_storm-027.jpg,The traffic road is covered with a layer of yellow dust reducing visibility The sky appears hazy,2
+train\Sand\sand_storm-029.jpg,The air quality is poor visibility is low and the road is muddy The sky is obscured by dust,2
+train\Sand\sand_storm-030.jpg,The image shows a low visibility condition with a dense fog covering the sky and road,2
+train\Sand\sand_storm-031.jpg,The traffic road is covered with a thick layer of dust reducing visibility significantly The sky appears hazy and yellowish Air quality is severely degraded by the large amount of suspended particles in the air The road is muddy causing more dust to be raised when vehicles move,2
+train\Sand\sand_storm-032.jpg,The traffic road shows poor air quality low visibility clear road conditions and a sky covered by heavy yellow smoke,2
+train\Sand\sand_storm-034.jpg,The traffic road shows poor air quality low visibility and clear road conditions The sky is overcast,2
+train\Sand\sand_storm-036.jpg,The air quality is poor visibility is low and the road surface is wet The sky appears hazy,2
+train\Sand\sand_storm-039.jpg,The traffic road shows poor air quality low visibility and clear road conditions The sky has a uniform orange hue,2
+train\Sand\sand_storm-040.jpg,The traffic road shows poor air quality low visibility and a hazy sky,2
+train\Sand\sand_storm-042.jpg,The air quality is poor visibility is low and the road appears wet The sky is overcast,2
+train\Sand\sand_storm-043.jpg,The traffic road is covered with a layer of yellow dust reducing visibility The sky has a uniform yellow hue likely due to dust storm,2
+train\Sand\sand_storm-044.jpg,The traffic road shows poor air quality low visibility and clear road conditions The sky has a uniform yellow hue,2
+train\Sand\sand_storm-046.jpg,The traffic road has low visibility the sky is a hazy yellow The road surface appears dry,2
+train\Sand\sand_storm-048.jpg,The traffic road shows poor air quality low visibility and a dry smooth surface The sky is uniformly colored orange indicating dust weather conditions,2
+train\Sand\sand_storm-051.jpg,The traffic road is covered in a yellow hue with low visibility The sky is obscured by a thick layer of yellow substance,2
+train\Sand\sand_storm-055.jpg,The traffic road is covered with sand reducing visibility The sky appears hazy,2
+train\Sand\sand_storm-057.jpg,The traffic road shows poor air quality low visibility and a yellowish sky The road appears dry with no visible wet or slippery patches,2
+train\Sand\sand_storm-058.jpg,The traffic road is covered with a thick layer of dust reducing visibility significantly The sky appears orange due to the haze Air quality is poor due to the large amount of suspended particles in the air The road surface is dry and uneven affecting vehicle movement,2
+train\Sand\sand_storm-060.jpg,The air quality is poor visibility is low The road surface appears slightly blurred and the sky is covered with a layer of yellow dust,2
+train\Sand\sand_storm-062.jpg,The traffic road is covered by a yellow haze reducing visibility The sky appears uniformly brownishyellow,2
+train\Sand\sand_storm-065.jpg,The traffic road shows poor air quality low visibility and a clear road surface The sky appears hazy,2
+train\Sand\sand_storm-067.jpg,The visibility is low and the sky appears hazy The road is visible with vehicles but the view is obscured,2
+train\Sand\sand_storm-068.jpg,The traffic road has low visibility due to fog The road is wet possibly with standing water The sky is overcast,2
+train\Sand\sand_storm-070.jpg,The road surface is dry and sandy The sky is clear with bright sunlight and visibility is good,2
+train\Sand\sand_storm-073.jpg,The traffic road is covered with thick dust reducing visibility The sky is obscured by dense haze and air quality is poor,2
+train\Sand\sand_storm-075.jpg,The sky is obscured by thick dust reducing visibility The air quality is poor due to the large amount of suspended particles Vehicles drive normally on the road but visibility is significantly affected,2
+train\Sand\sand_storm-076.jpg,The traffic road has low visibility due to air pollution The road appears dry and clear The sky is hazy with dim lighting,2
+train\Sand\sand_storm-077.jpg,The visibility is low due to the presence of suspended particles in the air The road appears dry and clear The sky is hazy with dim lighting,2
+train\Sand\sand_storm-079.jpg,The traffic road has an orange hue low visibility The sky is covered with a thick layer of haze making the scene somewhat hazy,2
+train\Sand\sand_storm-082.jpg,The traffic road is shrouded in a hazy atmosphere with low visibility The sky appears overcast and the air is filled with a yellowish haze The road looks dry without any visible anomalies,2
+train\Sand\sand_storm-084.jpg,The traffic road has low visibility possibly due to a meteorological phenomenon The sky appears hazy and the road surface is clear but overall environment looks blurry,2
+train\Sand\sand_storm-086.jpg,The traffic road is covered by a yellow haze with very low visibility The sky appears orange The road surface is slightly dusty,2
+train\Sand\sand_storm-087.jpg,The traffic road has a hazy orangeyellow hue Visibility is low due to dense fog The sky is obscured by thick haze Road conditions are clear with no visible damage or water,2
+train\Sand\sand_storm-089.jpg,The traffic road has low visibility due to suspended particles The road appears wet likely from recent rain The sky is overcast,2
+train\Sand\sand_storm-094.jpg,The traffic road is obscured by dense smoke with very low visibility The sky appears hazy Vehicles are parked on the road but specific conditions are unclear due to poor visibility,2
+train\Sand\sand_storm-096.jpg,The traffic road is obscured by low visibility due to dense fog The sky is covered and the air quality is poor,2
+train\Sand\sand_storm-100.jpg,The air quality is poor reducing visibility The road conditions are unclear due to dust The sky condition is obscured by the haze,2
+train\Sand\sand_storm-103.jpg,The traffic road has a hazy appearance with low visibility The road surface appears dry and clear The sky is overcast giving a dim impression,2
+train\Sand\sand_storm-104.jpg,The air quality is poor visibility is low and the road conditions are unclear due to fog The sky is covered with heavy clouds creating a gloomy atmosphere,2
+train\Sand\sand_storm-107.jpg,The traffic road is covered by a layer of orange haze reducing visibility The sky appears hazy with an orange tint,2
+train\Sand\sand_storm-108.jpg,The traffic road is covered with a layer of yellow dust reducing visibility The sky appears uniformly grayishyellow,2
+train\Sand\sand_storm-111.jpg,The traffic road is covered by a thick haze visibility is extremely low The sky appears in an orange hue,2
+train\Sand\sand_storm-114.jpg,The traffic road is covered by a thick yellow haze reducing visibility significantly The sky appears orangeyellow,2
+train\Sand\sand_storm-115.jpg,The traffic road appears slightly blurred indicating poor air quality The road surface is clear and dry The sky is overcast,2
+train\Sand\sand_storm-116.jpg,The traffic road has low visibility due to a yellow haze The road condition is good with no visible water or potholes The skys condition is unclear but the environment appears hazy,2
+train\Sand\sand_storm-119.jpg,The traffic road shows low visibility wet and slippery conditions The sky is overcast,2
+train\Sand\sand_storm-122.jpg,The traffic road has low visibility due to suspended particles The sky is hazy likely due to pollution or dust The road appears dry and clear,2
+train\Sand\sand_storm-123.jpg,The traffic road appears dry with no visible wet patches The sky is cloudy and visibility is good,2
+train\Sand\sand_storm-127.jpg,The traffic road has low visibility due to fog The road is wet possibly icy or snowy The sky is overcast with a grayish hue,2
+train\Sand\sand_storm-129.jpg,The traffic road has an orange hue low visibility and a sky of orange color The road appears dry with no visible wet or snowy patches,2
+train\Sand\sand_storm-130.jpg,The traffic road has a hazy orange hue Visibility is low and the sky appears cloudy The road condition is good with no visible damage or water,2
+train\Sand\sand_storm-133.jpg,The traffic road is covered with a thick layer of dust reducing visibility The sky appears hazy,2
+train\Sand\sand_storm-138.jpg,The traffic road shows poor air quality low visibility and a dusty sky The road appears smooth but details are unclear due to the haze,2
+train\Sand\sand_storm-139.jpg,The traffic road has low visibility the sky is overcast and the road appears wet,2
+train\Sand\sand_storm-140.jpg,The traffic road is shrouded in a thick haze with low visibility and an orange hue The sky is obscured by dense fog making the road conditions unclear,2
+train\Sand\sand_storm-145.jpg,The traffic road has low visibility due to suspended particles The road appears wet likely from recent rain The sky is obscured by haze,2
+train\Sand\sand_storm-146.jpg,The air quality is poor visibility is extremely low The sky is covered by a thick layer of orange haze The road conditions are unclear and the road signs on both sides are difficult to distinguish due to the poor visibility,2
+train\Sand\sand_storm-148.jpg,The traffic road has low visibility due to fog The distant vehicles and pedestrians appear blurry The road condition is good with no visible water or potholes The sky is covered by fog making the light dim,2
+train\Sand\sand_storm-150.jpg,The traffic road is covered with sand visibility is low and the sky appears hazy,2
+train\Sand\sand_storm-151.jpg,The traffic road shows poor air quality low visibility and a blurred road surface The sky appears hazy,2
+train\Sand\sand_storm-152.jpg,The visibility is low due to fog The road is wet reflecting vehicle lights The sky is overcast with a dim light,2
+train\Sand\sand_storm-154.jpg,The air quality is poor visibility is low and the road surface is uneven due to sand The sky is overcast,2
+train\Sand\sand_storm-155.jpg,The traffic road has low visibility due to dust and particles in the air The road appears slightly slippery possibly from recent rain or wet conditions The sky is overcast with no clear sunlight,2
+train\Sand\sand_storm-157.jpg,The traffic road is covered with sand visibility is low and the sky is overcast,2
+train\Sand\sand_storm-159.jpg,The traffic road is hazy with low visibility The road appears dry and clear The sky is overcast giving a dim appearance,2
+train\Sand\sand_storm-161.jpg,The traffic road is covered by a yellow haze reducing visibility The sky has an orange hue Road surface appears dry and clear,2
+train\Sand\sand_storm-163.jpg,The traffic road has a hazy orangeyellow hue Visibility is low and the sky appears cloudy,2
+train\Sand\sand_storm-164.jpg,The traffic road is covered with thick dust reducing visibility significantly The sky has a hazy yellow hue due to the large amount of dust in the air The road surface is uneven due to the dust causing vehicles to kick up more dust while driving further reducing visibility,2
+train\Sand\sand_storm-165.jpg,The traffic road has low visibility due to the presence of suspended particles in the air The road appears slightly wet possibly from recent rain or damp conditions The sky is hazy with no clear blue sky or clouds visible,2
+train\Sand\sand_storm-166.jpg,Dust is swirling on the road reducing visibility and air quality,2
+train\Sand\sand_storm-167.jpg,The traffic road is shrouded in a hazy orangeyellow hue Visibility is low due to dense dust The sky is obscured by thick haze,2
+train\Sand\sand_storm-168.jpg,The traffic road has a hazy orange hue Visibility is low and the sky appears cloudy The road surface looks dry with no visible wetness,2
+train\Sand\sand_storm-170.jpg,The traffic road has poor visibility due to air quality issues The road appears wet and the sky is hazy,2
+train\Sand\sand_storm-172.jpg,The traffic road has poor visibility due to air quality issues The sky is hazy and the road condition is good with no visible damage or water,2
+train\Sand\sand_storm-175.jpg,The traffic road has low visibility the sky is hazy The road surface is clear and dry,2
+train\Sand\sand_storm-177.jpg,The air quality is poor visibility is low and the sky has a hazy orange hue The road appears dry with no visible wetness or slipperiness,2
+train\Sand\sand_storm-178.jpg,The traffic road is shrouded in a thick orange haze reducing visibility The sky is obscured by dense smoke making distant buildings barely visible The road appears dry and clear,2
+train\Sand\sand_storm-180.jpg,The traffic road shows poor air quality low visibility and a slightly blurred road surface The sky appears hazy giving an overall gloomy impression,2
+train\Sand\sand_storm-182.jpg,The traffic road shows poor air quality with low visibility The sky is tinted orange indicating a hazy atmosphere,2
+train\Sand\sand_storm-184.jpg,The traffic road has a hazy yellow tone low visibility The road surface appears smooth and even The sky is uniformly yellow without visible clouds,2
+train\Sand\sand_storm-187.jpg,The traffic road has an orange hue low visibility The road appears dry with no visible wetness The sky is hazy reducing light penetration,2
+train\Sand\sand_storm-190.jpg,The traffic road has low visibility due to fog The distant traffic lights and vehicles appear blurry The road looks dry with no visible wet patches The sky is hazy indicating poor air quality,2
+train\Sand\sand_storm-192.jpg,The traffic road is covered in a thick layer of orange haze reducing visibility The sky is obscured by the same orange haze creating an oppressive atmosphere,2
+train\Sand\sand_storm-194.jpg,The traffic road has low visibility likely due to fog The sky appears overcast,2
+train\Sand\sand_storm-197.jpg,The traffic road has low visibility due to suspended particles The sky is unclear and the overall atmosphere is hazy,2
+train\Sand\sand_storm-199.jpg,The traffic road appears hazy with low visibility The road looks dry and clear The sky is overcast giving a dim appearance,2
+train\Sand\sand_storm-204.jpg,The traffic road has low visibility the sky is hazy Several vehicles are parked on the roadside including a red sports car and a fire truck The weather appears overcast but without specific weather phenomena like fog or sand,2
+train\Sand\sand_storm-206.jpg,The traffic road has low visibility due to fog The distant vehicles and signs are blurred The road condition is good with no visible damage or water The sky is obscured by fog,2
+train\Sand\sand_storm-209.jpg,The traffic road has low visibility the sky is hazy The road surface appears dry and clear,2
+train\Sand\sand_storm-210.jpg,The traffic road has low visibility due to suspended particles The road surface appears smooth and even The sky is not visible due to the haze,2
+train\Sand\sand_storm-211.jpg,The traffic road is covered by a hazy orangecolored atmosphere Visibility is low The road appears dry The sky has an even orange hue,2
+train\Sand\sand_storm-212.jpg,The traffic road appears dry with no visible wet patches The sky is cloudy and visibility is good,2
+train\Sand\sand_storm-213.jpg,The traffic road shows poor air quality with low visibility The sky appears orange indicating a dust storm,2
+train\Sand\sand_storm-214.jpg,The traffic road has a low visibility due to poor air quality The sky is uniformly colored orange with no visible clouds or sky features,2
+train\Sand\sand_storm-216.jpg,The air quality is poor visibility is low and the sky has an orange hue The road appears somewhat blurred,2
+train\Sand\sand_storm-218.jpg,The traffic road is hazy with low visibility The road surface appears dry and rough The sky is covered in a thin layer of haze,2
+train\Sand\sand_storm-219.jpg,The traffic road is shrouded in a thick orange haze reducing visibility The sky is obscured by the same hue creating a hazy atmosphere The road appears dry and clear,2
+train\Sand\sand_storm-221.jpg,The visibility is low due to the presence of suspended particles in the air The sky is obscured by a layer of haze The road conditions are clear but caution is advised for vehicles,2
+train\Sand\sand_storm-223.jpg,The traffic road is shrouded in a hazy atmosphere with low visibility The sky is obscured by a thick yellow layer creating a blurred scene The road appears slightly wet likely due to increased air moisture,2
+train\Sand\sand_storm-225.jpg,The traffic road has low visibility the sky is uniformly yellow The road surface appears dry The weather is hazy,2
+train\Sand\sand_storm-226.jpg,The traffic road is hazy with low visibility The road appears dry and clear The sky is overcast with dim lighting,2
+train\Sand\sand_storm-228.jpg,The traffic road is covered in a thick haze reducing visibility The sky is obscured by dust creating a hazy atmosphere The road appears slightly wet indicating high humidity,2
+train\Sand\sand_storm-229.jpg,The traffic road has low visibility due to the presence of suspended particles The road condition is good with no visible damage or water The sky is not clear due to the fog,2
+train\Sand\sand_storm-232.jpg,The traffic road is covered by a hazy orange mist reducing visibility The sky is uniformly tinted orange,2
+train\Sand\sand_storm-234.jpg,The traffic road is covered with dust reducing visibility The sky appears hazy,2
+train\Sand\sand_storm-236.jpg,The traffic road is covered by a yellow haze reducing visibility significantly The sky appears hazy and yellow,2
+train\Sand\sand_storm-237.jpg,The traffic road shows poor air quality low visibility and clear road conditions The sky has a uniform yellow hue,2
+train\Sand\sand_storm-238.jpg,The traffic road is covered in a uniform orange hue indicating poor air quality and low visibility,2
+train\Sand\sand_storm-239.jpg,The air quality is poor reducing visibility The road condition is good The sky has a hazy tone,2
+train\Sand\sand_storm-241.jpg,The traffic road is obscured by low visibility due to dense fog The vehicles and road signs are barely visible in the distance The road surface appears clear with no apparent damage or water accumulation The sky condition is not discernible but the overall environment is shrouded in thick fog affecting visibility,2
+train\Sand\sand_storm-242.jpg,The traffic road has low visibility due to fog The road appears wet likely from recent rain or snow The sky is hazy with no clear blue or clouds visible,2
+train\Sand\sand_storm-244.jpg,The traffic road is shrouded in a thick haze reducing visibility The sky is filled with smoke creating an orange hue The road appears dry and clear,2
+train\Sand\sand_storm-245.jpg,The traffic road has low visibility due to dense fog,2
+train\Sand\sand_storm-246.jpg,The traffic road has poor air quality low visibility and a reddishorange sky The road appears somewhat blurry due to the particulate matter in the air,2
+train\Sand\sand_storm-247.jpg,The traffic road is covered with a thick layer of yellow dust reducing visibility significantly The sky appears orange,2
+train\Sand\sand_storm-248.jpg,The image shows a low visibility due to dust with a dry road surface The sky appears hazy,2
+train\Sand\sand_storm-249.jpg,The traffic road is shrouded in a hazy atmosphere with low visibility The sky appears overcast and the road seems slightly wet,2
+train\Sand\sand_storm-251.jpg,The traffic road has a hazy orange hue Visibility is low and the sky appears cloudy The road condition is good with no visible damage or water,2
+train\Sand\sand_storm-252.jpg,The traffic road is obscured by a thick haze reducing visibility The sky is covered with a dense fog making distant signs and vehicles blurry The road appears clear without visible damage or water Overall the weather is very hazy,2
+train\Sand\sand_storm-253.jpg,The traffic road shows poor air quality low visibility wet road conditions and a foggy sky,2
+train\Sand\sand_storm-256.jpg,The traffic road has low visibility due to fog The distant traffic lights and signs are blurred The road condition is clear with no visible wetness The sky is obscured by fog,2
+train\Sand\sand_storm-257.jpg,The traffic road is covered by a yellow haze reducing visibility The sky appears hazy with an orange hue The road seems slightly slippery due to moisture in the air,2
+train\Sand\sand_storm-260.jpg,The visibility is low likely due to particulate matter in the air The road appears wet possibly from rain or mist The sky is overcast with dim lighting,2
+train\Sand\sand_storm-262.jpg,The traffic road has low visibility due to the presence of suspended particles The road condition is good with no visible damage or water The sky is not clear due to the fog,2
+train\Sand\sand_storm-263.jpg,The traffic road has low visibility due to dust The sky is hazy and the road surface appears dry but with some particles,2
+train\Sand\sand_storm-264.jpg,The traffic road is shrouded in a hazy atmosphere with low visibility The sky is obscured by a yellowish haze making distant objects appear blurred Vehicles on the road are moving normally but the overall lighting is dim due to the haze,2
+train\Sand\sand_storm-266.jpg,The traffic road shows poor air quality low visibility wet road conditions and a hazy sky,2
+train\Sand\sand_storm-267.jpg,The traffic road has low visibility due to suspended particles The road appears slightly wet The sky is overcast with thick clouds and the light is dim,2
+train\Sand\sand_storm-269.jpg,The air quality is poor reducing visibility The road appears dry The sky has a hazy yellow hue,2
+train\Sand\sand_storm-271.jpg,The sky is orange visibility is low The road has a car parked on the side,2
+train\Sand\sand_storm-273.jpg,The traffic road has low visibility due to the presence of suspended particles in the air The road condition is good with no visible damage or water The sky is obscured by a thick layer of haze,2
+train\Sand\sand_storm-274.jpg,The traffic road is covered with a thick layer of dust reducing visibility significantly The sky appears in an orange hue The road surface looks dry and clear,2
+train\Sand\sand_storm-276.jpg,The traffic road is covered with a thick layer of dust reducing visibility significantly The sky appears hazy,2
+train\Sand\sand_storm-278.jpg,The traffic road appears wet likely due to recent rain Visibility is low and the sky looks overcast,2
+train\Sand\sand_storm-279.jpg,The traffic road has a hazy orangeyellow hue Visibility is low and the sky appears cloudy The road surface looks dry with no visible wetness or slipperiness,2
+train\Sand\sand_storm-281.jpg,The traffic road has low visibility possibly due to a meteorological phenomenon The sky is uniformly colored without distinct clouds or sunlight penetration The road appears dry with no visible anomalies Overall the weather condition may affect driving visibility,2
+train\Sand\sand_storm-283.jpg,The air quality is poor visibility is low The road appears slightly blurred and the sky is hazy,2
+train\Sand\sand_storm-284.jpg,The traffic road has low visibility due to fog The sky is covered with haze The road appears slippery affecting driving safety,2
+train\Sand\sand_storm-285.jpg,The visibility is low due to the presence of suspended particles in the air The road appears dry and clear The sky is obscured by fog,2
+train\Sand\sand_storm-286.jpg,The traffic road is covered in a thick haze reducing visibility The sky is obscured by a dense fog making distant buildings and trees blurry The road appears dry with no visible wetness Overall the weather suggests poor air quality,2
+train\Sand\sand_storm-288.jpg,The traffic road has low visibility and poor air quality The road appears somewhat blurry The sky is unclear,2
+train\Sand\sand_storm-292.jpg,The traffic road is covered with a thin layer of mist reducing visibility The road appears slightly slippery due to the high humidity The skys condition is unclear but the overall environment seems overcast,2
+train\Sand\sand_storm-294.jpg,The traffic road has poor air quality low visibility and blurred distant vehicles and signs The road condition is good with no visible water or potholes The sky appears hazy due to pollution,2
+train\Sand\sand_storm-295.jpg,The traffic road has low visibility due to fog The sky is obscured by the dense fog The road appears wet due to the fog,2
+train\Sand\sand_storm-296.jpg,The traffic road has a low visibility due to poor air quality The road appears dry and the sky is uniformly colored orange,2
+train\Sand\sand_storm-297.jpg,The traffic road has low visibility due to dust and smoke The sky is hazy likely due to air pollution or sandstorm The road appears dry with no visible wetness,2
+train\Sand\sand_storm-298.jpg,The traffic road shows poor air quality low visibility and clear road conditions The sky condition is unclear,2
+train\Sand\sand_storm-300.jpg,The traffic road appears blurry indicating low visibility The sky is dark suggesting poor air quality There are some debris on the road indicating poor road conditions,2
+train\Sand\sand_storm-304.jpg,The traffic road shows poor air quality low visibility and a dusty surface The sky is obscured by dust,2
+train\Sand\sand_storm-306.jpg,The traffic road shows poor air quality low visibility and normal road conditions The sky appears hazy,2
+train\Sand\sand_storm-307.jpg,The traffic road has low visibility due to dust and smoke in the air The sky is blue but the overall light is dim due to the atmospheric particles,2
+train\Sand\sand_storm-308.jpg,The traffic road has poor air quality low visibility and a hazy sky,2
+train\Sand\sand_storm-312.jpg,The traffic road has an orange hue low visibility and a hazy sky The road condition is good with no visible damage or water,2
+train\Sand\sand_storm-315.jpg,The traffic road is covered with sand visibility is low and the sky condition is unclear,2
+train\Sand\sand_storm-317.jpg,The traffic road is shrouded in a thick haze reducing visibility significantly The road appears slightly wet likely due to the moisture in the air The sky is overcast with a grayish hue Overall its a scene of poor air quality and low visibility,2
+train\Sand\sand_storm-318.jpg,The visibility is low due to a significant amount of dust and particles in the air The road appears dry with no visible wet patches The sky is covered by a thick layer of dust creating a hazy appearance,2
+train\Sand\sand_storm-319.jpg,The traffic road is covered in a reddish hue with low visibility The sky appears hazy,2
+train\Sand\sand_storm-320.jpg,The traffic road is shrouded in a yellow haze reducing visibility The sky is obscured by the fog The road surface appears clear and undamaged,2
+train\Sand\sand_storm-322.jpg,The air quality is poor visibility is low The road appears wet and slippery The sky is hazy,2
+train\Sand\sand_storm-324.jpg,The traffic road is covered in a thick layer of orange haze reducing visibility significantly The sky is uniformly colored orange with no visible clouds or changes in color The road appears wet and slightly muddy Overall the weather conditions are poor with low visibility and hazy air quality,2
+train\Sand\sand_storm-326.jpg,The traffic road is dry and sandy with high visibility The sky is clear and cloudless,2
+train\Sand\sand_storm-328.jpg,The traffic road shows poor air quality low visibility and a hazy sky,2
+train\Sand\sand_storm-329.jpg,The visibility is low due to poor air quality The road appears wet and the sky is hazy,2
+train\Sand\sand_storm-331.jpg,The air quality is poor visibility is low and the road appears muddy The sky is obscured by smoke,2
+train\Sand\sand_storm-332.jpg,The traffic road is shrouded in a dense haze reducing visibility The sky is obscured by thick fog The road surface is clear and smooth,2
+train\Sand\sand_storm-334.jpg,The visibility is low due to the dense fog The road appears wet affecting driving safety,2
+train\Sand\sand_storm-335.jpg,The traffic road shows poor air quality low visibility and a blurred road surface The sky is uniformly colored orange indicating possible dust storm or similar weather phenomena affecting the view,2
+train\Sand\sand_storm-337.jpg,The air quality is poor reducing visibility The road appears dry but not slippery The sky is hazy due to dust and pollutants,2
+train\Sand\sand_storm-339.jpg,The visibility is low due to poor air quality The road appears wet likely from moisture in the air The sky is hazy,2
+train\Sand\sand_storm-341.jpg,The air quality is poor visibility is low The road surface is dry and covered with dust The sky is dark and cloudy,2
+train\Sand\sand_storm-343.jpg,The traffic road has an orange hue low visibility The road surface is smooth The sky is uniformly colored orange,2
+train\Sand\sand_storm-345.jpg,The traffic road is covered in a yellow haze reducing visibility The sky is obscured by a thick layer of smoke making distant buildings and trees blurry The road appears dry with no visible wetness,2
+train\Sand\sand_storm-346.jpg,The traffic road is shrouded in a thick yellow haze reducing visibility The sky is obscured by the dust making distant objects blurry The road appears dry and clear of water Overall this weather condition may affect driving visibility and safety,2
+train\Sand\sand_storm-348.jpg,The traffic road shows poor air quality low visibility and a blurred road surface The sky has an orange hue indicating pollution or dust,2
+train\Sand\sand_storm-349.jpg,The traffic road is covered with a thick layer of dust reducing visibility The sky appears hazy,2
+train\Sand\sand_storm-351.jpg,The visibility is low due to heavy fog The road appears clear but the sky is obscured by the fog,2
+train\Sand\sand_storm-353.jpg,The traffic road shows low visibility due to dust The road appears slightly wet likely from the air moisture The sky is hazy with no distinct clouds or sunlight,2
+train\Sand\sand_storm-355.jpg,The traffic road has an orange hue low visibility and a uniform orange sky The road appears dry but is somewhat blurry due to poor air quality,2
+train\Sand\sand_storm-357.jpg,The traffic road is covered in a misty haze reducing visibility The road appears wet with ripples likely due to humidity or light rain The sky is overcast giving an overall gloomy impression,2
+train\Sand\sand_storm-358.jpg,The air quality is poor visibility is low The road appears blurry the sky has an orange hue,2
+train\Sand\sand_storm-359.jpg,The traffic road has low visibility due to suspended particles The road appears slightly wet likely from recent rain or mist The sky is hazy with no distinct color,2
+train\Sand\sand_storm-361.jpg,The air quality is poor visibility is low and the road conditions are obscured by dust The sky is overcast,2
+train\Sand\sand_storm-363.jpg,The traffic road has an orange hue low visibility and a hazy sky The road appears dry with no visible wetness,2
+train\Sand\sand_storm-365.jpg,The traffic road has an orange hue low visibility and a hazy sky The road appears dry with no visible wet or slippery patches,2
+train\Sand\sand_storm-367.jpg,The traffic road has low visibility due to fog The sky is overcast and the road appears dry but details are unclear due to the fog,2
+train\Sand\sand_storm-368.jpg,The air quality is poor visibility is low and the road appears dry with dust The sky is obscured by distant buildings,2
+train\Sand\sand_storm-370.jpg,The traffic road shows low visibility a gray sky and a wet surface,2
+train\Sand\sand_storm-373.jpg,The traffic road is shrouded in a hazy atmosphere with low visibility The road appears smooth and dry The sky is overcast giving a dim appearance,2
+train\Sand\sand_storm-379.jpg,The traffic road has a hazy orangered hue Visibility is low due to poor air quality The sky appears cloudy and the light is dim,2
+train\Sand\sand_storm-381.jpg,The traffic road is hazy with low visibility The road surface appears dry and slightly uneven The sky looks clear,2
+train\Sand\sand_storm-382.jpg,The traffic road has a hazy orange hue Visibility is low and the sky appears cloudy The road surface looks dry with no visible wetness or slipperiness,2
+train\Sand\sand_storm-384.jpg,The traffic road is covered by a thick orange haze reducing visibility significantly The sky is uniformly orange,2
+train\Sand\sand_storm-386.jpg,The traffic road has an orange hue low visibility and a hazy sky The road appears dry with no visible wet patches,2
+train\Sand\sand_storm-388.jpg,The air quality is poor visibility is low and the road appears somewhat blurred The sky has an orange hue likely due to dust or pollution,2
+train\Sand\sand_storm-390.jpg,The traffic road has a hazy orange hue Visibility is low and the sky appears murky The road condition is good with no visible damage or water,2
+train\Sand\sand_storm-391.jpg,The traffic road is shrouded in haze reducing visibility The road surface appears smooth and dry The sky is overcast with a dull light,2
+train\Sand\sand_storm-757.jpg,The traffic road is covered with a layer of yellow dust reducing visibility The sky appears orange The road surface looks somewhat blurry and dusty,2
+train\Sand\sand_storm-802.jpg,The traffic road is covered with a layer of yellow dust visibility is extremely low and the sky has an orange hue,2
+train\Sand\sand_storm-835.jpg,The visibility is extremely low the sky is yellow The road appears dry and clear,2
+train\Sand\sand_storm-901.jpg,The traffic road shows poor air quality low visibility and clear road conditions The sky appears orange,2
+train\Snow\snow_storm-001.jpg,The traffic road is covered with thick snow reducing visibility The sky is overcast with dim lighting,3
+train\Snow\snow_storm-002.jpg,The traffic road is covered with a thin layer of snow reducing visibility The road is slippery due to the snow and wet conditions requiring cautious driving The sky appears hazy with diffused lighting,3
+train\Snow\snow_storm-003.jpg,The traffic road is covered with a thick layer of snow reducing visibility Vehicles brake lights illuminate the scene Snow falls from the sky making the road slippery,3
+train\Snow\snow_storm-004.jpg,The traffic road is covered with thick snow visibility is low The sky is overcast The road is slippery and there are visible tire tracks and footprints,3
+train\Snow\snow_storm-005.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears overcast The road is slippery due to the snow,3
+train\Snow\snow_storm-006.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy with mist filling the air making the scene somewhat blurry,3
+train\Snow\snow_storm-007.jpg,The traffic road is covered with thick snow reducing visibility Snowflakes falls in the sky affecting air quality,3
+train\Snow\snow_storm-008.jpg,The traffic road is covered with thick snow reducing visibility Vehicles need to use headlights and fog lights for better visibility The sky appears hazy without clear color,3
+train\Snow\snow_storm-009.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears overcast and the air quality is poor due to fine particles in the air,3
+train\Snow\snow_storm-010.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast,3
+train\Snow\snow_storm-011.jpg,The traffic road is covered with a thin layer of snow making the surface slippery The sky appears hazy and dimly lit indicating poor visibility due to fine particles in the air,3
+train\Snow\snow_storm-012.jpg,The traffic road is covered with snow visibility is low and the sky is overcast,3
+train\Snow\snow_storm-013.jpg,The traffic road is covered with thick snow visibility is low and the sky is filled with falling flakes,3
+train\Snow\snow_storm-014.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-016.jpg,The traffic road is covered with thick snow reducing visibility The sky is filled with heavy snowfall creating a foggy atmosphere,3
+train\Snow\snow_storm-017.jpg,The traffic road is covered with a thick layer of snow reducing visibility The sky appears hazy and white,3
+train\Snow\snow_storm-018.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy Vehicles drive slowly headlights illuminating the path ahead,3
+train\Snow\snow_storm-019.jpg,The traffic road is covered with a thin layer of snow visibility is low and the sky appears overcast,3
+train\Snow\snow_storm-020.jpg,The road surface is wet likely due to recent snow or melting snow The sky is overcast reducing visibility Trees and ground are covered with a light layer of snow,3
+train\Snow\snow_storm-021.jpg,The traffic road is covered with thick snow visibility is low and the sky is filled with falling flakes,3
+train\Snow\snow_storm-022.jpg,The traffic road is covered with thick snow visibility is low and the sky is overcast The road appears wet and slippery with visible tire tracks The air quality is poor with a damp smell in the air,3
+train\Snow\snow_storm-023.jpg,The traffic road is covered with a thick layer of snow reducing visibility The sky appears hazy Vehicles are driving slowly on the slippery and snowy road,3
+train\Snow\snow_storm-024.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky is overcast Road conditions are slippery,3
+train\Snow\snow_storm-025.jpg,The traffic road is covered with a thin layer of snow visibility is low and the sky is filled with fine snowflakes,3
+train\Snow\snow_storm-026.jpg,The road is covered with thick snow reducing visibility The surface is slippery The sky is overcast,3
+train\Snow\snow_storm-027.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast,3
+train\Snow\snow_storm-028.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-029.jpg,The air quality is poor visibility is low the road is slippery and the sky is overcast,3
+train\Snow\snow_storm-040.jpg,The traffic road is covered with thick snow visibility is low and it is snowing,3
+train\Snow\snow_storm-041.jpg,The traffic road is covered with snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-043.jpg,The traffic road is covered with thick snow reducing visibility Vehicles headlights are on Snow falls from the sky making the road slippery,3
+train\Snow\snow_storm-044.jpg,The traffic road shows low visibility due to snow The air quality is affected by fine particles in the air The road is slippery with snow making vehicle movement difficult The sky is overcast without clear blue skies or sunlight,3
+train\Snow\snow_storm-045.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-046.jpg,The traffic road is covered with snow visibility is low and the road is slippery The sky is cloudy with falling snowflakes,3
+train\Snow\snow_storm-047.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears overcast The road is slippery due to the snow,3
+train\Snow\snow_storm-048.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears overcast The road is slippery requiring cautious driving,3
+train\Snow\snow_storm-049.jpg,The traffic road has low visibility due to fog The road appears slippery likely from melted snow or slush The sky is overcast with a grayish hue,3
+train\Snow\snow_storm-050.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-051.jpg,The traffic road has low visibility the sky is covered with dense fog,3
+train\Snow\snow_storm-052.jpg,The traffic road is covered with snow the visibility is low and the sky is overcast,3
+train\Snow\snow_storm-053.jpg,The traffic road is covered with thick snow visibility is low Snowflakes falls in the sky and the air appears slightly damp,3
+train\Snow\snow_storm-054.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky is filled with falling flakes and the air quality is poor,3
+train\Snow\snow_storm-055.jpg,The traffic road is covered with a thin layer of snow visibility is low and the sky appears overcast The road is wet and slippery requiring cautious driving for vehicles,3
+train\Snow\snow_storm-056.jpg,The traffic road is covered with thick snow reducing visibility The road surface is slippery due to the snow and wet conditions The sky appears hazy but the specific weather condition is unclear,3
+train\Snow\snow_storm-057.jpg,The traffic road is covered with a thin layer of snow visibility is good and the sky is overcast The road surface is relatively flat but has some patches of water and mud Overall the weather is cold and slightly damp,3
+train\Snow\snow_storm-059.jpg,The traffic road is covered with thick snow visibility is low and the sky is filled with falling flakes,3
+train\Snow\snow_storm-060.jpg,The traffic road is covered with a thick layer of snow reducing visibility The road is slippery due to the snow The sky appears hazy,3
+train\Snow\snow_storm-061.jpg,The traffic road is covered with a thick layer of snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-062.jpg,The air quality is poor visibility is low the road is slippery and covered with snow The sky is overcast creating a cold and wet atmosphere,3
+train\Snow\snow_storm-063.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast,3
+train\Snow\snow_storm-065.jpg,The traffic road is covered with a thin layer of snow reducing visibility The road condition is slippery The sky appears overcast indicating cold weather,3
+train\Snow\snow_storm-066.jpg,The road is covered with thick snow visibility is low and the sky appears hazy,3
+train\Snow\snow_storm-067.jpg,The traffic road is covered with thick snow visibility is low and the sky appears hazy,3
+train\Snow\snow_storm-068.jpg,The road is covered with thick snow reducing visibility The sky appears overcast with no distinct cloud cover,3
+train\Snow\snow_storm-069.jpg,The traffic road is covered with snow visibility is low and the sky is overcast,3
+train\Snow\snow_storm-070.jpg,The road is covered in a thick layer of snow reducing visibility The sky appears overcast with a grayish hue,3
+train\Snow\snow_storm-071.jpg,The traffic road is covered with a thin layer of snow reducing visibility,3
+train\Snow\snow_storm-072.jpg,The traffic road is covered with a light mist reducing visibility The road appears wet and slippery with slight water accumulation The sky is hazy with soft lighting Overall the weather is overcast with average air quality,3
+train\Snow\snow_storm-073.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast,3
+train\Snow\snow_storm-074.jpg,The traffic road is covered in a light mist reducing visibility The road appears slightly slippery The sky is hazy,3
+train\Snow\snow_storm-075.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast The road is slippery due to the heavy snow Air quality is affected by the damp air,3
+train\Snow\snow_storm-076.jpg,The road is covered with thick snow reducing visibility The sky appears hazy due to the snowfall,3
+train\Snow\snow_storm-077.jpg,The traffic road is covered with a thin layer of snow reducing visibility Vehicles are driving slowly due to the wet and slippery road conditions Snow is falling in the sky creating a cloudy atmosphere,3
+train\Snow\snow_storm-078.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears overcast Road conditions are slippery affecting driving safety,3
+train\Snow\snow_storm-079.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-082.jpg,The traffic road is covered with thick snow visibility is low The sky is bright white indicating clear weather,3
+train\Snow\snow_storm-083.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears hazy The road surface is wet and slippery with clear tire tracks visible,3
+train\Snow\snow_storm-084.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-085.jpg,The traffic road is covered with a thick layer of snow reducing visibility Vehicles headlights illuminate the area and snow particles scatter in the air The sky appears overcast with no clear blue or sunlight visible,3
+train\Snow\snow_storm-086.jpg,The traffic road is covered with snow visibility is low and the sky appears hazy,3
+train\Snow\snow_storm-087.jpg,The traffic road is covered with snow visibility is low and the sky appears hazy,3
+train\Snow\snow_storm-088.jpg,The traffic road shows low visibility due to the dense vehicles and reflected light The wet snowcovered surface increases driving difficulty The sky appears hazy indicating poor air quality,3
+train\Snow\snow_storm-089.jpg,The traffic road is covered with a thin layer of snow reducing visibility The road is slippery and has a layer of snow increasing driving difficulty The sky appears hazy with diffused light creating a gloomy and cold atmosphere,3
+train\Snow\snow_storm-090.jpg,The traffic road is covered with a thin layer of snow reducing visibility The road surface is slippery The sky condition is unclear,3
+train\Snow\snow_storm-091.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-092.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast Road conditions are slippery,3
+train\Snow\snow_storm-093.jpg,The road is covered with a thin layer of snow reducing visibility The surface appears slightly slippery due to the accumulated snow and tire tracks The sky has a hazy appearance without distinct clouds,3
+train\Snow\snow_storm-094.jpg,The traffic road is covered in a thin layer of mist reducing visibility The road appears wet and slippery with possible standing water The sky is overcast creating a dim light Overall the weather conditions are gloomy affecting driving visibility and road safety,3
+train\Snow\snow_storm-095.jpg,The traffic road is covered with a thin layer of snow reducing visibility Vehicles need to drive cautiously due to the slippery and wet surface The sky appears hazy with soft lighting Overall the weather is cold and damp,3
+train\Snow\snow_storm-096.jpg,The traffic road is covered with a layer of snow reducing visibility The sky appears overcast and the road surface is slippery,3
+train\Snow\snow_storm-097.jpg,The traffic road is covered with thick snow visibility is low Trees have fallen on the road making the road conditions complex The sky is overcast,3
+train\Snow\snow_storm-101.jpg,The traffic road is covered with thick snow visibility is low Vehicles are driving on a slippery surface Snow is falling in the sky,3
+train\Snow\snow_storm-103.jpg,The road is wet and slippery with low visibility due to the snow The sky is overcast creating a cold and quiet atmosphere,3
+train\Snow\snow_storm-105.jpg,The traffic road is covered with a thin layer of snow reducing visibility The wet and slippery road conditions require cautious driving The sky is overcast with no sunlight,3
+train\Snow\snow_storm-107.jpg,The traffic road is covered with a thin layer of mist reducing visibility The road appears slippery requiring cautious driving The sky has a hazy appearance with soft lighting,3
+train\Snow\snow_storm-109.jpg,The traffic road is covered with a thin layer of snow reducing visibility Vehicles headlights are on indicating the need for lighting Fine particles fall from the sky affecting air quality The weather is complex impacting driving safety,3
+train\Snow\snow_storm-111.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-113.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears overcast Road conditions are slippery,3
+train\Snow\snow_storm-115.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky is dark blue and appears overcast The road is wet and slippery illuminated by the cars headlights Trees and distant scenery are blurred due to distance,3
+train\Snow\snow_storm-117.jpg,The traffic road shows poor air quality low visibility slippery conditions and a cloudy sky,3
+train\Snow\snow_storm-119.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-121.jpg,The traffic road is covered with a thin layer of snow reducing visibility The road condition appears slippery due to the snow The sky is overcast without clear blue skies or sunlight,3
+train\Snow\snow_storm-125.jpg,The traffic road is covered with thick snow visibility is low and the sky appears overcast,3
+train\Snow\snow_storm-127.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-129.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast,3
+train\Snow\snow_storm-131.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears overcast,3
+train\Snow\snow_storm-133.jpg,The traffic road is covered with thick snow visibility is low and vehicles are driving on slippery roads Snowflakes is falling in the sky and there is a noticeable precipitation phenomenon,3
+train\Snow\snow_storm-135.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast,3
+train\Snow\snow_storm-137.jpg,The traffic road is covered with a thin layer of snow reducing visibility Vehicles are driving slowly on the slippery and wet road The sky appears hazy with dim lighting,3
+train\Snow\snow_storm-139.jpg,The road is covered with a thin layer of snow reducing visibility The sky is overcast,3
+train\Snow\snow_storm-141.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast,3
+train\Snow\snow_storm-143.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-145.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears overcast The road surface is slippery affecting driving safety,3
+train\Snow\snow_storm-147.jpg,The traffic road is covered with thick snow reducing visibility The sky appears grayish,3
+train\Snow\snow_storm-149.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast The road conditions are slippery due to the heavy snow,3
+train\Snow\snow_storm-151.jpg,The traffic road is wet and slippery visibility is low and the sky is overcast,3
+train\Snow\snow_storm-153.jpg,The traffic road is covered with thick snow visibility is low Snow continues to fall from the sky making the road slippery The air quality is affected,3
+train\Snow\snow_storm-156.jpg,The road is covered with a thin layer of snow visibility is good and the sky is clear,3
+train\Snow\snow_storm-158.jpg,The traffic road is covered with thick snow reducing visibility The air quality is poor due to the mixture of snow and vehicle exhaust The road is slippery causing slow traffic The sky is overcast,3
+train\Snow\snow_storm-160.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast indicating poor air quality,3
+train\Snow\snow_storm-162.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast,3
+train\Snow\snow_storm-164.jpg,The traffic road is covered with a thick layer of snow reducing visibility The road condition is slippery Snow falls in the sky affecting air quality,3
+train\Snow\snow_storm-166.jpg,The traffic road is covered with a thin layer of mist reducing visibility The road appears wet and slightly slippery with minor water accumulation The sky is hazy with soft lighting Overall the weather is damp and overcast,3
+train\Snow\snow_storm-168.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast,3
+train\Snow\snow_storm-170.jpg,The road is covered with a thin layer of snow reducing visibility The sky appears overcast indicating poor air quality,3
+train\Snow\snow_storm-172.jpg,The traffic road is covered with a thin layer of snow Visibility is good and the sky is clear blue The road surface is dry without any visible water or ice,3
+train\Snow\snow_storm-176.jpg,The traffic road is covered with snow visibility is low and the sky appears hazy,3
+train\Snow\snow_storm-178.jpg,The traffic road is covered with thick snow visibility is low and the sky appears hazy The air is slightly murky but not polluted The road is slippery and difficult to see details The environment feels cold and gloomy,3
+train\Snow\snow_storm-180.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-182.jpg,The traffic road is covered with a thin layer of snow reducing visibility Vehicles are moving slowly due to dense traffic and slippery roads The sky appears overcast indicating cold weather conditions,3
+train\Snow\snow_storm-184.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-186.jpg,The traffic road is covered with a thin layer of mist reducing visibility The road appears wet and slippery with slight water accumulation The sky is filled with fine particles affecting air quality,3
+train\Snow\snow_storm-188.jpg,The traffic road is covered with thick snow visibility is low and the sky is filled with falling flakes,3
+train\Snow\snow_storm-190.jpg,The traffic road is covered in snow making it slippery The sky is overcast and the visibility is low,3
+train\Snow\snow_storm-196.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-200.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-202.jpg,The traffic road is covered with snow visibility is low and the sky appears hazy,3
+train\Snow\snow_storm-204.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-206.jpg,The traffic road is covered with snow visibility is low and the sky is overcast,3
+train\Snow\snow_storm-209.jpg,The traffic road is covered with a thin layer of snow reducing visibility,3
+train\Snow\snow_storm-213.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears overcast indicating air quality issues,3
+train\Snow\snow_storm-215.jpg,The traffic road is covered with a thin layer of snow reducing visibility The road surface is slippery with snow tracks The sky appears hazy,3
+train\Snow\snow_storm-217.jpg,The traffic road is covered with thick snow visibility is low and the sky appears hazy The road surface is wet and slippery,3
+train\Snow\snow_storm-219.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-221.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-223.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-225.jpg,The traffic road shows poor air quality low visibility wet and snowy conditions The sky is overcast creating a dim atmosphere,3
+train\Snow\snow_storm-227.jpg,The traffic road is covered with a thick layer of snow reducing visibility The air quality is poor due to the combination of snow and vehicle exhaust The road is slippery and covered in snow The sky appears overcast creating a cold and oppressive atmosphere,3
+train\Snow\snow_storm-229.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-233.jpg,The traffic road is covered with a thin layer of snow reducing visibility The road appears slightly slippery due to the snow The sky is hazy with soft lighting,3
+train\Snow\snow_storm-235.jpg,The traffic road is covered with a thick layer of snow reducing visibility The road appears slippery due to the snow The sky is overcast and the weather is cold and wet,3
+train\Snow\snow_storm-237.jpg,The traffic road is covered with a thin layer of snow reducing visibility The road surface is slippery The sky appears overcast indicating cold weather conditions,3
+train\Snow\snow_storm-239.jpg,The traffic road is covered with snow visibility is low and the sky appears overcast,3
+train\Snow\snow_storm-241.jpg,The road is covered with a light layer of snow visibility is good The sky has a soft tone The road appears slightly wet but no significant water or ice is present Overall the weather is calm and suitable for driving,3
+train\Snow\snow_storm-243.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-245.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy,3
+train\Snow\snow_storm-247.jpg,The traffic road is covered with snow visibility is low and the sky is overcast,3
+train\Snow\snow_storm-251.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky is filled with dense flakes,3
+train\Snow\snow_storm-253.jpg,The traffic road is covered with a thin layer of snow reducing visibility The road condition is slippery Snowflakes falls in the sky affecting air quality,3
+train\Snow\snow_storm-255.jpg,The traffic road is covered with thick snow reducing visibility Snowflakes falls in the sky making the air slightly damp,3
+train\Snow\snow_storm-257.jpg,The traffic road is covered with thick snow reducing visibility The road is slippery due to the snow The sky is overcast,3
+train\Snow\snow_storm-259.jpg,The traffic road has low visibility the sky is overcast and the road appears slightly slippery,3
+train\Snow\snow_storm-261.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy due to the accumulation of snow,3
+train\Snow\snow_storm-263.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast The road surface is wet and slippery due to the heavy snow,3
+train\Snow\snow_storm-265.jpg,The traffic road is covered with thick snow reducing visibility The sky appears overcast,3
+train\Snow\snow_storm-267.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy indicating air quality issues,3
+train\Snow\snow_storm-269.jpg,The road surface is wet and slippery likely due to accumulated snow or melted water The sky appears overcast with general visibility but no visible fog or pollution Overall the weather is cold and damp,3
+train\Snow\snow_storm-271.jpg,The traffic road is covered with thick snow reducing visibility Vehicles drive on slippery surfaces The sky appears hazy with light filtering through the clouds,3
+train\Snow\snow_storm-273.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy indicating air quality issues,3
+train\Snow\snow_storm-275.jpg,The traffic road is covered with a thick layer of snow reducing visibility The road is slippery due to the snow The sky is overcast creating a cold and gloomy atmosphere,3
+train\Snow\snow_storm-279.jpg,The traffic road is covered with thick snow reducing visibility The sky appears hazy The road shows signs of wetness and tire tracks from vehicles,3
+train\Snow\snow_storm-281.jpg,The road is covered with snow visibility is low and the sky is overcast The road is slippery and vehicles need to drive cautiously,3
+train\Snow\snow_storm-283.jpg,The traffic road is covered with thick snow visibility is low and the sky is filled with falling flakes,3
+train\Snow\snow_storm-285.jpg,The traffic road is covered with thick snow reducing visibility Vehicles move slowly The sky appears hazy with light filtering through the falling snow,3
+train\Snow\snow_storm-289.jpg,The traffic road is covered with a thin layer of snow reducing visibility The sky appears hazy Road conditions are slippery due to the snow,3
+train\Snow\snow_storm-291.jpg,The road is covered with a thin layer of snow reducing visibility The sky appears overcast indicating poor air quality,3
+train\Snow\snow_storm-293.jpg,The traffic road is covered with a thin layer of snow reducing visibility The road appears slippery due to the snow and vehicle activity The sky has a grayish hue creating a dim atmosphere,3
+train\Snow\snow_storm-295.jpg,The traffic road is covered with thick snow reducing visibility Vehicles drive on slippery surfaces The sky appears overcast,3

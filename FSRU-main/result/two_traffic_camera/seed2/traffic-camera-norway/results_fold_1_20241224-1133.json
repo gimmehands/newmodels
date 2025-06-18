@@ -1,0 +1,22 @@
+{
+    "seed": 2,
+    "dataset_type": "lm",
+    "alpha": 0.2,
+    "beta": 0.2,
+    "caption_rate": 0.05,
+    "num_epoch": 50,
+    "remarks": "text enhancement",
+    "results": {
+        "accuracy": 0.7876106194690266,
+        "f1": 0.7860987873410233,
+        "one_name": "low",
+        "one_precision": 0.803030303030303,
+        "one_recall": 0.7361111111111112,
+        "one_f1": 0.7681159420289855,
+        "zero_name": "medium",
+        "zero_precision": 0.7755905511811023,
+        "zero_recall": 0.8347457627118644,
+        "zero_f1": 0.8040816326530612
+    },
+    "k": 1
+}
