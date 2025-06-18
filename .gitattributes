@@ -5,3 +5,4 @@
 预备知识 filter=lfs diff=lfs merge=lfs -text
 FSRU-main filter=lfs diff=lfs merge=lfs -text
 FSRU-main.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
